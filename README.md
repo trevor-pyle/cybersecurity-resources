@@ -16,10 +16,11 @@ Credit goes to all the authors, content creators, and contributors!
 ### US State Privacy Legislation Tracker | https://iapp.org/resources/article/us-state-privacy-legislation-tracker/
 ### Cybersecurity Maturity Model Certification (CMMC) | https://dodcio.defense.gov/CMMC/
 ### CMMC Accreditation Body | https://cyberab.org/
+### Cloud Security Alliance Cloud Controls Matrix | https://cloudsecurityalliance.org/research/cloud-controls-matrix/
 
 ## Control Mappings - Organizations may have to comply with numerous and sometimes overlapping security control controls and frameworks. One way to assist in the process is to develop a combined control framework to assist in meeting the security requirements across multiple frameworks. 
 ### NIST Cybersecurity Framework 1.1 https://www.nist.gov/cyberframework/framework
 ### Secure Control Framework - https://securecontrolsframework.com/scf-download/
 ###  Adobe Common Controls Framework - https://www.adobe.com/trust/compliance/adobe-ccf.html
 ### Equifax Security Controls Framework - https://controlsframework.equifax.com/home
-### Cloud Security Alliance Cloud Controls Matrix | https://cloudsecurityalliance.org/research/cloud-controls-matrix/
+### CIS Critical Security Controls Navigator | https://www.cisecurity.org/controls/cis-controls-navigator
