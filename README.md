@@ -10,4 +10,6 @@ Credit goes to all the authors, content creators, and contributors!
 ### Cybersecurity Maturity Model Certification (CMMC) | https://dodcio.defense.gov/CMMC/
 ### CMMC Accreditation Body | https://cyberab.org/
 ### NIST Cybersecurity Framework 1.1 | https://www.nist.gov/cyberframework/framework
-
+## Additional Frameworks | Standards
+### Payment Card Industry Digital Security Standards (4.0 & 3.2.1) | https://www.pcisecuritystandards.org/document_library/
+### Center For Internet Security Critical Security Controls 
