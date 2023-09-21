@@ -25,3 +25,11 @@ Credit goes to all the authors, content creators, and contributors!
 ###  Adobe Common Controls Framework - https://www.adobe.com/trust/compliance/adobe-ccf.html
 ### Equifax Security Controls Framework - https://controlsframework.equifax.com/home
 ### CIS Critical Security Controls Navigator | https://www.cisecurity.org/controls/cis-controls-navigator
+
+## Supply Chain Management
+### NIST Software Supply Chain Security Guidance |  https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity/software-supply-chain-security-guidance
+### NIST Cybersecurity Supply Chain Risk Management |  https://csrc.nist.gov/projects/cyber-supply-chain-risk-management
+### CISA Information and communications Technology Supply Chain Risk Management | https://www.cisa.gov/information-and-communications-technology-supply-chain-risk-management
+### MITRE System of Trust | https://sot.mitre.org/framework/system_of_trust.html
+### Compliance Forge Prioritized C-SCRM Implementation Plan | https://content.complianceforge.com/graphics/example-cybersecurity-scrm-prioritized-implementation-plan.pdf
+
