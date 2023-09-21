@@ -13,4 +13,7 @@ Credit goes to all the authors, content creators, and contributors!
 
 ## Additional Frameworks | Standards
 ### Payment Card Industry Digital Security Standards (4.0 & 3.2.1) | https://www.pcisecuritystandards.org/document_library/
-### Center For Internet Security Critical Security Controls 
+### Center For Internet Security Critical Security Controls | https://www.cisecurity.org/controls/cis-controls-list
+### Cloud Security Alliance Cloud Controls Matrix | https://cloudsecurityalliance.org/research/cloud-controls-matrix/
+### New York Department of Financial Services – Cybersecurity Requirements for Financial Services Companies | https://www.dfs.ny.gov/industry_guidance/cybersecurity
+### US State Privacy Legislation Tracker | https://iapp.org/resources/article/us-state-privacy-legislation-tracker/
