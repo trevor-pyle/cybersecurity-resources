@@ -25,6 +25,7 @@ Credit goes to all the authors, content creators, and contributors!
 ###  Adobe Common Controls Framework - https://www.adobe.com/trust/compliance/adobe-ccf.html
 ### Equifax Security Controls Framework - https://controlsframework.equifax.com/home
 ### CIS Critical Security Controls Navigator | https://www.cisecurity.org/controls/cis-controls-navigator
+### [MITRE ATTACK to NIST 800-53] (https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/nist-800-53-control-mappings/)
 
 ## Supply Chain Management
 ### NIST Software Supply Chain Security Guidance |  https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity/software-supply-chain-security-guidance
@@ -32,4 +33,13 @@ Credit goes to all the authors, content creators, and contributors!
 ### CISA Information and communications Technology Supply Chain Risk Management | https://www.cisa.gov/information-and-communications-technology-supply-chain-risk-management
 ### MITRE System of Trust | https://sot.mitre.org/framework/system_of_trust.html
 ### Compliance Forge Prioritized C-SCRM Implementation Plan | https://content.complianceforge.com/graphics/example-cybersecurity-scrm-prioritized-implementation-plan.pdf
+
+## Security Architecture and Engineering
+### Threat Modeling https://shostack.org/resources/threat-modeling
+### Cloud Security Technical Reference Architecture https://www.cisa.gov/resources-tools/resources/cloud-security-technical-reference-architecture
+### MITRE ATTACK Enterprise https://attack.mitre.org/matrices/enterprise/
+### MITRE ATTACK Cloud https://attack.mitre.org/matrices/enterprise/cloud/
+### MITRE ATTACK Network https://attack.mitre.org/matrices/enterprise/network/
+
+
 
