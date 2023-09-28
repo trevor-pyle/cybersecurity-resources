@@ -42,8 +42,6 @@ Credit goes to all the authors, content creators, and contributors!
 ### MITRE ATTACK Network https://attack.mitre.org/matrices/enterprise/network/
 
 ## Security Engineering
-### (Federal Information Processing Standards Cryptographic Module Validation Program)[https://csrc.nist.gov/projects/cryptographic-module-validation-program]
-###
-
+### (Federal Information Processing Standards Cryptographic Module Validation Program)[https://csrc.nist.gov/projects/cryptographic-module-validation-program
 
 
