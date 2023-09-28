@@ -45,5 +45,11 @@ Credit goes to all the authors, content creators, and contributors!
 ### (Federal Information Processing Standards Cryptographic Module Validation Program)[https://csrc.nist.gov/projects/cryptographic-module-validation-program
 ### Validated Modules Searchable List | https://csrc.nist.gov/projects/cryptographic-module-validation-program/validated-modules/search/all
 
+## Network Security
+### OSI Model | https://en.wikipedia.org/wiki/OSI_model
+### IP Subnet Calculator | https://www.calculator.net/ip-subnet-calculator.html
+### TCP & UDP Ports | https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
+### Wireshark | https://www.wireshark.org/
+
 
 
