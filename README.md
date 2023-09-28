@@ -34,12 +34,16 @@ Credit goes to all the authors, content creators, and contributors!
 ### MITRE System of Trust | https://sot.mitre.org/framework/system_of_trust.html
 ### Compliance Forge Prioritized C-SCRM Implementation Plan | https://content.complianceforge.com/graphics/example-cybersecurity-scrm-prioritized-implementation-plan.pdf
 
-## Security Architecture and Engineering
+## Security Architecture
 ### Threat Modeling https://shostack.org/resources/threat-modeling
 ### Cloud Security Technical Reference Architecture https://www.cisa.gov/resources-tools/resources/cloud-security-technical-reference-architecture
 ### MITRE ATTACK Enterprise https://attack.mitre.org/matrices/enterprise/
 ### MITRE ATTACK Cloud https://attack.mitre.org/matrices/enterprise/cloud/
 ### MITRE ATTACK Network https://attack.mitre.org/matrices/enterprise/network/
+
+## Security Engineering
+### (Federal Information Processing Standards Cryptographic Module Validation Program)[https://csrc.nist.gov/projects/cryptographic-module-validation-program]
+###
 
 
 
