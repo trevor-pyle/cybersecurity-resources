@@ -24,12 +24,12 @@ Credit goes to all the authors, content creators, and contributors!
 ### Cloud Security Alliance Cloud Controls Matrix | https://cloudsecurityalliance.org/research/cloud-controls-matrix/
 ### CSF Tools | https://csf.tools/
 
-## Control Mappings - Organizations may have to comply with numerous and sometimes overlapping security control controls and frameworks. One way to assist in the process is to develop a combined control framework to assist in meeting the security requirements across multiple frameworks. 
+## Control Mappings
 ### NIST Cybersecurity Framework 1.1 https://www.nist.gov/cyberframework/framework
 ### Secure Control Framework - https://securecontrolsframework.com/scf-download/
 ###  Adobe Common Controls Framework - https://www.adobe.com/trust/compliance/adobe-ccf.html
 ### Equifax Security Controls Framework - https://controlsframework.equifax.com/home
-### CIS Critical Security Controls Navigator | https://www.cisecurity.org/controls/cis-controls-navigator
+### Center For Internet Security Critical Security Controls Navigator | https://www.cisecurity.org/controls/cis-controls-navigator
 ### MITRE [MITRE ATTACK to NIST 800-53](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/nist-800-53-control-mappings/)
 
 ## Supply Chain Management
