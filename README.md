@@ -77,6 +77,8 @@ Credit goes to all the authors, content creators, and contributors!
 # Incident Mgmt
 ### Virus Total |  https://www.virustotal.com
 ### Open Source Intelligence | https://osintframework.com/
+### Shodan | https://www.shodan.io/
+
 ## Reporting
 ### DHS Harmonization of Cyber Incident Reporting to the Federal Government - Page 42 Reporting Requirements Inventory - https://www.dhs.gov/publication/harmonization-cyber-incident-reporting-federal-government
 
@@ -141,6 +143,7 @@ Credit goes to all the authors, content creators, and contributors!
 ### Cybersecurity & Infrastructure Security Agency Resources - https://www.cisa.gov/resources-tools/resources
 ### Cybersecurity & Infrastructure Security Agency Free Cybersecurity Services and Tools - https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools
 ### NIST Computer Security Resource Center Project - https://csrc.nist.gov/projects
+
 
 
 
