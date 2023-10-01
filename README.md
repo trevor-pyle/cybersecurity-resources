@@ -100,6 +100,20 @@ Credit goes to all the authors, content creators, and contributors!
 ### AWS https://aws.amazon.com/compliance/programs/
 ### GCP https://cloud.google.com/security/compliance/offerings
 
+# Career Paths
+### NIST National Initiative for Cybersecurity Education | https://niccs.cisa.gov/workforce-development/nice-framework
+
+# Certifications
+### Paul Jerimy | https://pauljerimy.com/security-certification-roadmap
+
+# Newsletters
+### Unsupervised Learning - Daniel Miessler - https://danielmiessler.com/
+### CloudSecList - Marco Lancini -  https://cloudseclist.com/
+### TLDR Sec - Clint Gibler - https://tldrsec.com/
+### WSJ Cybersecurity https://www.wsj.com/newsletters
+
+
+
 
 
 
