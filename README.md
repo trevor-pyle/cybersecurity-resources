@@ -73,6 +73,20 @@ Credit goes to all the authors, content creators, and contributors!
 ### Common Vulnerability Scoring System (CVSS) https://nvd.nist.gov/vuln-metrics/cvss
 ### CISA Known Exploited Vulnerabilities Catalog https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 
+# Incident Mgmt
+### Virus Total |  https://www.virustotal.com
+### Open Source Intelligence | https://osintframework.com/
+
+# Cloud Security
+## Providers 
+### Microsoft | https://learn.microsoft.com/en-us/security/
+### Azure | https://learn.microsoft.com/en-us/azure/security/
+### AWS | https://docs.aws.amazon.com/security/
+### GCP | https://cloud.google.com/docs/security/overview/whitepaper
+### Azure to AWS Services comparison - Excellent comparison of services for those working in multi-cloud environments | https://learn.microsoft.com/en-us/azure/architecture/aws-professional/services
+#
+
+
 
 
 
