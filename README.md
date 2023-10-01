@@ -51,6 +51,9 @@ Credit goes to all the authors, content creators, and contributors!
 # Security Engineering
 ### (Federal Information Processing Standards Cryptographic Module Validation Program)[https://csrc.nist.gov/projects/cryptographic-module-validation-program
 ### Validated Modules Searchable List | https://csrc.nist.gov/projects/cryptographic-module-validation-program/validated-modules/search/all
+### Center For Internet Security Hardened Images https://www.cisecurity.org/cis-hardened-images
+### Security Technical Implementation Guide Viewer https://www.stigviewer.com/
+
 
 # Network Security
 ### OSI Model | https://en.wikipedia.org/wiki/OSI_model
@@ -149,6 +152,7 @@ Credit goes to all the authors, content creators, and contributors!
 ### Cybersecurity & Infrastructure Security Agency Resources - https://www.cisa.gov/resources-tools/resources
 ### Cybersecurity & Infrastructure Security Agency Free Cybersecurity Services and Tools - https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools
 ### NIST Computer Security Resource Center Project - https://csrc.nist.gov/projects
+
 
 
 
