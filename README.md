@@ -7,7 +7,7 @@ Credit goes to all the authors, content creators, and contributors!
 ### [800-53 Rev 5 | Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
 ### [800-171 Rev 2 | Protecting Controlled Unclassified Information in nonfederal systems and organizations)](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final)  
 ### [800-171a Rev 2 | Assessment procedures for 800-171](https://csrc.nist.gov/publications/detail/sp/800-171a/final)
-### [NIST Risk Management Framework] (https://csrc.nist.gov/projects/risk-management/about-rmf)
+### [NIST Risk Management Framework](https://csrc.nist.gov/projects/risk-management/about-rmf)  
 ### NIST Cybersecurity Framework 1.1 | https://www.nist.gov/cyberframework/framework
 ### Cybersecurity and Privacy Reference Tool | https://csrc.nist.gov/Projects/cprt
 ### NIST Project | https://csrc.nist.gov/projects
