@@ -90,6 +90,20 @@ Credit goes to all the authors, content creators, and contributors!
 ### AWS https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/shared-responsibility.html
 ### GCP https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate
 
+## Frameworks
+### Azure Well-Architected Framework https://learn.microsoft.com/en-us/azure/well-architected/
+### AWS Well-Architected Framework https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html
+### Google Cloud Architecture Framework https://cloud.google.com/architecture/framework
+
+## Cloud Compliance Offerings by Provider 
+### Azure https://learn.microsoft.com/en-us/compliance/regulatory/offering-home
+### AWS https://aws.amazon.com/compliance/programs/
+### GCP https://cloud.google.com/security/compliance/offerings
+
+
+
+
+
 
 
 
