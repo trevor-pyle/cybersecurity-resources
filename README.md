@@ -141,6 +141,8 @@ Credit goes to all the authors, content creators, and contributors!
 ### The New CISO - https://podcasts.apple.com/us/podcast/the-new-ciso/id1460075361
 ### Hacker Valley Studio - https://hackervalley.com/
 ### SANS Podcasts - Several others within the list as well - https://www.sans.org/blog/cybersecurity-podcast-roundup/
+### On Cloud - https://podcasts.apple.com/us/podcast/on-cloud/id1406374662
+### Google Cloud Security Podcast - https://cloud.google.com/podcasts/cloud-security
 
 
 # Cheat Sheets
