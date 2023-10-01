@@ -9,6 +9,10 @@ Credit goes to all the authors, content creators, and contributors!
 ### [800-171a Rev 2 | Assessment procedures for 800-171](https://csrc.nist.gov/publications/detail/sp/800-171a/final)
 ### NIST Risk Management Framework | https://csrc.nist.gov/projects/risk-management/about-rmf
 ### NIST Cybersecurity Framework 1.1 | https://www.nist.gov/cyberframework/framework
+### Cybersecurity and Privacy Reference Tool | https://csrc.nist.gov/Projects/cprt
+### NIST Project | https://csrc.nist.gov/projects
+### NIST Frameworks | https://www.nist.gov/frameworks
+
 
 ## Additional Frameworks | Standards
 ### Payment Card Industry Digital Security Standards (4.0 & 3.2.1) | https://www.pcisecuritystandards.org/document_library/
@@ -18,6 +22,7 @@ Credit goes to all the authors, content creators, and contributors!
 ### Cybersecurity Maturity Model Certification (CMMC) | https://dodcio.defense.gov/CMMC/
 ### CMMC Accreditation Body | https://cyberab.org/
 ### Cloud Security Alliance Cloud Controls Matrix | https://cloudsecurityalliance.org/research/cloud-controls-matrix/
+### CSF Tools | https://csf.tools/
 
 ## Control Mappings - Organizations may have to comply with numerous and sometimes overlapping security control controls and frameworks. One way to assist in the process is to develop a combined control framework to assist in meeting the security requirements across multiple frameworks. 
 ### NIST Cybersecurity Framework 1.1 https://www.nist.gov/cyberframework/framework
@@ -37,6 +42,7 @@ Credit goes to all the authors, content creators, and contributors!
 
 # Security Architecture
 ### Threat Modeling https://shostack.org/resources/threat-modeling
+### STRIDE Threat Model https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats
 ### Cloud Security Technical Reference Architecture https://www.cisa.gov/resources-tools/resources/cloud-security-technical-reference-architecture
 ### MITRE ATTACK Enterprise https://attack.mitre.org/matrices/enterprise/
 ### MITRE ATTACK Cloud https://attack.mitre.org/matrices/enterprise/cloud/
