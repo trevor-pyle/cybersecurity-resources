@@ -85,6 +85,13 @@ Credit goes to all the authors, content creators, and contributors!
 ### GCP | https://cloud.google.com/docs/security/overview/whitepaper
 ### Azure to AWS Services comparison - Excellent comparison of services for those working in multi-cloud environments | https://learn.microsoft.com/en-us/azure/architecture/aws-professional/services
 
+## Shared Responsibilities
+### Azure https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility
+### AWS https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/shared-responsibility.html
+### GCP https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate
+
+
+
 
 
 
