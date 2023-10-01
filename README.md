@@ -54,7 +54,7 @@ Credit goes to all the authors, content creators, and contributors!
 # Identity & Access Management
 ## Zero Trust US Gov | https://zerotrust.cyber.gov/
 ## Microsoft Zero Trust | https://www.microsoft.com/en-us/security/business/zero-trust
-### Strategy https://zerotrust.cyber.gov/federal-zero-trust-strategy/
+### Strategy | https://zerotrust.cyber.gov/federal-zero-trust-strategy/
 ### Maturity Model https://zerotrust.cyber.gov/zero-trust-maturity-model/
 ### Cloud Security Technical Reference Architecture https://zerotrust.cyber.gov/cloud-security-technical-reference-architecture/
 ### Zero Trust Maturity Model - https://www.cisa.gov/zero-trust-maturity-model
