@@ -112,6 +112,22 @@ Credit goes to all the authors, content creators, and contributors!
 ### TLDR Sec - Clint Gibler - https://tldrsec.com/
 ### WSJ Cybersecurity https://www.wsj.com/newsletters
 
+# Books 
+### Cybersecurity Cannons - https://icdt.osu.edu/cybercanon/bookreviews
+
+# Cheat Sheets
+### SANS - https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
+
+# Policy Templates
+### SANS - https://www.sans.org/information-security-policy/
+
+# Additional Resources
+### Cybersecurity & Infrastructure Security Agency Resources - https://www.cisa.gov/resources-tools/resources
+### Cybersecurity & Infrastructure Security Agency Free Cybersecurity Services and Tools - https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools
+### NIST Computer Security Resource Center Project - https://csrc.nist.gov/projects
+
+
+
 
 
 
