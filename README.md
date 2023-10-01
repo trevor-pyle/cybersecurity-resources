@@ -124,6 +124,7 @@ Credit goes to all the authors, content creators, and contributors!
 ### Unsupervised Learning - Daniel Miessler - https://danielmiessler.com/
 ### CloudSecList - Marco Lancini -  https://cloudseclist.com/
 ### TLDR Sec - Clint Gibler - https://tldrsec.com/
+### SANS - https://www.sans.org/newsletters/
 ### WSJ Cybersecurity https://www.wsj.com/newsletters
 
 # Books 
