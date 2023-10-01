@@ -33,6 +33,7 @@ Credit goes to all the authors, content creators, and contributors!
 ### CISA Information and communications Technology Supply Chain Risk Management | https://www.cisa.gov/information-and-communications-technology-supply-chain-risk-management
 ### MITRE System of Trust | https://sot.mitre.org/framework/system_of_trust.html
 ### Compliance Forge Prioritized C-SCRM Implementation Plan | https://content.complianceforge.com/graphics/example-cybersecurity-scrm-prioritized-implementation-plan.pdf
+### European Union Agency for Cybersecurity - Good Practices for Supply Chain Cybersecurity - https://www.enisa.europa.eu/publications/good-practices-for-supply-chain-cybersecurity
 
 # Security Architecture
 ### Threat Modeling https://shostack.org/resources/threat-modeling
@@ -76,6 +77,8 @@ Credit goes to all the authors, content creators, and contributors!
 # Incident Mgmt
 ### Virus Total |  https://www.virustotal.com
 ### Open Source Intelligence | https://osintframework.com/
+## Reporting
+### DHS Harmonization of Cyber Incident Reporting to the Federal Government - Page 42 Reporting Requirements Inventory - https://www.dhs.gov/publication/harmonization-cyber-incident-reporting-federal-government
 
 # Cloud Security
 ## Providers 
@@ -114,6 +117,19 @@ Credit goes to all the authors, content creators, and contributors!
 
 # Books 
 ### Cybersecurity Cannons - https://icdt.osu.edu/cybercanon/bookreviews
+
+# Podcasts
+### Unsupervised Learning - https://podcasts.apple.com/us/podcast/unsupervised-learning/id1099711235
+### The Virtual CISO Podcast - https://podcasts.apple.com/us/podcast/the-virtual-ciso-podcast/id1498720073
+### CISO Stories Podcast - https://podcasts.apple.com/us/podcast/ciso-stories-podcast/id1553494094
+### CISO Tradecraft - https://www.cisotradecraft.com/episode-list
+### Life of a CISO - https://podcasts.apple.com/us/podcast/life-of-a-ciso-with-dr-eric-cole/id1458386656
+### Bulletproof Cyber - https://podcasts.apple.com/us/podcast/bulletproof-cyber/id1690068665
+### CISO Series Podcast Collections - https://cisoseries.com/ciso-series-shows/
+### The New CISO - https://podcasts.apple.com/us/podcast/the-new-ciso/id1460075361
+### Hacker Valley Studio - https://hackervalley.com/
+### SANS Podcasts - Several others within the list as well - https://www.sans.org/blog/cybersecurity-podcast-roundup/
+
 
 # Cheat Sheets
 ### SANS - https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
