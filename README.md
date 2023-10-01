@@ -52,7 +52,17 @@ Credit goes to all the authors, content creators, and contributors!
 ### Wireshark | https://www.wireshark.org/
 
 # Identity & Access Management
-## Zero Trust
+## Zero Trust US Gov | https://zerotrust.cyber.gov/
+## Microsoft Zero Trust | https://www.microsoft.com/en-us/security/business/zero-trust
+### Strategy https://zerotrust.cyber.gov/federal-zero-trust-strategy/
+### Maturity Model https://zerotrust.cyber.gov/zero-trust-maturity-model/
+### Cloud Security Technical Reference Architecture https://zerotrust.cyber.gov/cloud-security-technical-reference-architecture/
+### Zero Trust Maturity Model - https://www.cisa.gov/zero-trust-maturity-model
+### Department of Defense (DoD) Zero Trust Reference Architecture https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v2.0(U)_Sep22.pdf
+### Department of Defense (DoD) Zero Trust Strategy https://dodcio.defense.gov/Portals/0/Documents/Library/DoD-ZTStrategy.pdf
+### Department of Defense (DoD) Zero Trust Capability Execution Roadmap https://dodcio.defense.gov/Portals/0/Documents/Library/ZTCapabilitiesActivities.pdf
+
+
 
 
 
