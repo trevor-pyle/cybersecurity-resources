@@ -61,6 +61,18 @@ Credit goes to all the authors, content creators, and contributors!
 ### Department of Defense (DoD) Zero Trust Reference Architecture https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v2.0(U)_Sep22.pdf
 ### Department of Defense (DoD) Zero Trust Strategy https://dodcio.defense.gov/Portals/0/Documents/Library/DoD-ZTStrategy.pdf
 ### Department of Defense (DoD) Zero Trust Capability Execution Roadmap https://dodcio.defense.gov/Portals/0/Documents/Library/ZTCapabilitiesActivities.pdf
+## Remote Access 
+### Guide to Securing Remote Access Software | https://www.cisa.gov/resources-tools/resources/guide-securing-remote-access-software
+
+# Assessment & Testing 
+## Kali Linux https://www.kali.org/
+### Qualys Free Services https://www.qualys.com/free-services/
+### Open Worldwide Application Security Project (OWASP) – Publisher of the OWASP Top 10 web application security risks https://owasp.org/
+### OWASP Cheat Sheets https://cheatsheetseries.owasp.org/index.html
+## Vulnerability Mgmt
+### Common Vulnerability Scoring System (CVSS) https://nvd.nist.gov/vuln-metrics/cvss
+### CISA Known Exploited Vulnerabilities Catalog https://www.cisa.gov/known-exploited-vulnerabilities-catalog
+
 
 
 
