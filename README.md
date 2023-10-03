@@ -14,16 +14,15 @@ Credit goes to all the authors, content creators, and contributors!
 ### [NIST Frameworks](https://www.nist.gov/frameworks)
 
 
-
 ## Additional Frameworks | Standards
-### Payment Card Industry Digital Security Standards (4.0 & 3.2.1) | https://www.pcisecuritystandards.org/document_library/
-### Center For Internet Security Critical Security Controls | https://www.cisecurity.org/controls/cis-controls-list
-### New York Department of Financial Services – Cybersecurity Requirements for Financial Services Companies | https://www.dfs.ny.gov/industry_guidance/cybersecurity
-### US State Privacy Legislation Tracker | https://iapp.org/resources/article/us-state-privacy-legislation-tracker/
-### Cybersecurity Maturity Model Certification (CMMC) | https://dodcio.defense.gov/CMMC/
-### CMMC Accreditation Body | https://cyberab.org/
-### Cloud Security Alliance Cloud Controls Matrix | https://cloudsecurityalliance.org/research/cloud-controls-matrix/
-### CSF Tools | https://csf.tools/
+### [Payment Card Industry Digital Security Standards (4.0 & 3.2.1)](https://www.pcisecuritystandards.org/document_library/)
+### [Center For Internet Security Critical Security Controls](https://www.cisecurity.org/controls/cis-controls-list)
+### [New York Department of Financial Services – Cybersecurity Requirements for Financial Services Companies](https://www.dfs.ny.gov/industry_guidance/cybersecurity)
+### [US State Privacy Legislation Tracker](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/)
+### [Cybersecurity Maturity Model Certification (CMMC)](https://dodcio.defense.gov/CMMC/)
+### [CMMC Accreditation Body](https://cyberab.org/)
+### [Cloud Security Alliance Cloud Controls Matrix](https://cloudsecurityalliance.org/research/cloud-controls-matrix/)
+### [CSF Tools](https://csf.tools/)
 
 ## Control Mappings
 ### NIST Cybersecurity Framework 1.1 https://www.nist.gov/cyberframework/framework
