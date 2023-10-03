@@ -11,7 +11,7 @@ Credit goes to all the authors, content creators, and contributors!
 ### [NIST Cybersecurity Framework 1.1](https://www.nist.gov/cyberframework/framework)
 ### [Cybersecurity and Privacy Reference Tool](https://csrc.nist.gov/Projects/cprt)
 ### [NIST Projects](https://csrc.nist.gov/projects)
-### [NIST Frameworks](https://www.nist.gov/frameworks)  
+### [NIST Frameworks](https://www.nist.gov/frameworks)
 
 
 ## Additional Frameworks | Standards
@@ -30,8 +30,7 @@ Credit goes to all the authors, content creators, and contributors!
 ### [Adobe Common Controls Framework](https://www.adobe.com/trust/compliance/adobe-ccf.html)
 ### [Equifax Security Controls Framework](https://controlsframework.equifax.com/home)
 ### [Center For Internet Security Critical Security Controls Navigator](https://www.cisecurity.org/controls/cis-controls-navigator)
-### [MITRE - MITRE ATTACK to NIST 800-53](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/nist-800-53-control-mappings/)  
-
+### [MITRE - MITRE ATTACK to NIST 800-53](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/nist-800-53-control-mappings/)
 
 ## Supply Chain Management
 ### [NIST Software Supply Chain Security Guidance](https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity/software-supply-chain-security-guidance)
@@ -39,28 +38,27 @@ Credit goes to all the authors, content creators, and contributors!
 ### [CISA Information and communications Technology Supply Chain Risk Management](https://www.cisa.gov/information-and-communications-technology-supply-chain-risk-management)
 ### [MITRE System of Trust](https://sot.mitre.org/framework/system_of_trust.html)
 ### [Compliance Forge Prioritized C-SCRM Implementation Plan](https://content.complianceforge.com/graphics/example-cybersecurity-scrm-prioritized-implementation-plan.pdf)
-### [European Union Agency for Cybersecurity - Good Practices for Supply Chain Cybersecurity](https://www.enisa.europa.eu/publications/good-practices-for-supply-chain-cybersecurity)  
+### [European Union Agency for Cybersecurity - Good Practices for Supply Chain Cybersecurity](https://www.enisa.europa.eu/publications/good-practices-for-supply-chain-cybersecurity)
 
-# Security Architecture
-### Threat Modeling https://shostack.org/resources/threat-modeling
-### STRIDE Threat Model https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats
-### Cloud Security Technical Reference Architecture https://www.cisa.gov/resources-tools/resources/cloud-security-technical-reference-architecture
-### MITRE ATTACK Enterprise https://attack.mitre.org/matrices/enterprise/
-### MITRE ATTACK Cloud https://attack.mitre.org/matrices/enterprise/cloud/
-### MITRE ATTACK Network https://attack.mitre.org/matrices/enterprise/network/
-
-# Security Engineering
-### (Federal Information Processing Standards Cryptographic Module Validation Program)[https://csrc.nist.gov/projects/cryptographic-module-validation-program
-### Validated Modules Searchable List | https://csrc.nist.gov/projects/cryptographic-module-validation-program/validated-modules/search/all
-### Center For Internet Security Hardened Images https://www.cisecurity.org/cis-hardened-images
-### Security Technical Implementation Guide Viewer https://www.stigviewer.com/
+# Security Architecture & Engineering
+### [SABSA Enterprise Security Architecture](https://sabsa.org/sabsa-executive-summary/)
+### [NIST Systems Security Engineering Project](https://csrc.nist.gov/projects/systems-security-engineering-project)
+### [Threat Modeling - Adam Shostack](https://shostack.org/resources/threat-modeling)
+### [STRIDE Threat Model](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats)
+### [MITRE ATTACK Enterprise](https://attack.mitre.org/matrices/enterprise/)
+### [MITRE ATTACK Cloud](https://attack.mitre.org/matrices/enterprise/cloud/)
+### [MITRE ATTACK Network](https://attack.mitre.org/matrices/enterprise/network/)
+### [Federal Information Processing Standards Cryptographic Module Validation Program](https://csrc.nist.gov/projects/cryptographic-module-validation-program)
+### [Validated Modules Searchable List](https://csrc.nist.gov/projects/cryptographic-module-validation-program/validated-modules/search/all)
+### [Center For Internet Security Hardened Images](https://www.cisecurity.org/cis-hardened-images)
+### [Security Technical Implementation Guide Viewer](https://www.stigviewer.com/)
 
 
 # Network Security
-### OSI Model | https://en.wikipedia.org/wiki/OSI_model
-### IP Subnet Calculator | https://www.calculator.net/ip-subnet-calculator.html
-### TCP & UDP Ports | https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
-### Wireshark | https://www.wireshark.org/
+### [OSI Model](https://en.wikipedia.org/wiki/OSI_model)
+### [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
+### [TCP & UDP Ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+### [Wireshark](https://www.wireshark.org/)
 
 # Identity & Access Management
 ## Zero Trust US Gov | https://zerotrust.cyber.gov/
@@ -85,12 +83,16 @@ Credit goes to all the authors, content creators, and contributors!
 ### CISA Known Exploited Vulnerabilities Catalog https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 
 # Incident Mgmt
-### Virus Total |  https://www.virustotal.com
-### Open Source Intelligence | https://osintframework.com/
-### Shodan | https://www.shodan.io/
+
+### [NIST Computer Security Incident Handling Guide](https://csrc.nist.gov/pubs/sp/800/61/r2/final)
+### [NIST Ransomware Protection and Response](https://csrc.nist.gov/Projects/ransomware-protection-and-response)
+### [CISA Stop Ransomeware Resources](https://www.cisa.gov/stopransomware/resources)
+### [Open Source Intelligence](https://osintframework.com/)
+### [Virus Total](https://www.virustotal.com)
+### [Shodan](https://www.shodan.io/)
 
 ## Reporting
-### DHS Harmonization of Cyber Incident Reporting to the Federal Government - Page 42 Reporting Requirements Inventory - https://www.dhs.gov/publication/harmonization-cyber-incident-reporting-federal-government
+### [DHS Harmonization of Cyber Incident Reporting to the Federal Government - Page 42 Reporting Requirements Inventory](https://www.dhs.gov/publication/harmonization-cyber-incident-reporting-federal-government)
 
 # Cloud Security
 ## Providers 
@@ -100,15 +102,22 @@ Credit goes to all the authors, content creators, and contributors!
 ### GCP | https://cloud.google.com/docs/security/overview/whitepaper
 ### Azure to AWS Services comparison - Excellent comparison of services for those working in multi-cloud environments | https://learn.microsoft.com/en-us/azure/architecture/aws-professional/services
 
+### [Microsoft Cloud Security Benchmark Documentation](https://learn.microsoft.com/en-us/security/benchmark/azure/)
+
 ## Shared Responsibilities
 ### Azure https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility
 ### AWS https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/shared-responsibility.html
 ### GCP https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate
 
-## Frameworks
-### Azure Well-Architected Framework https://learn.microsoft.com/en-us/azure/well-architected/
-### AWS Well-Architected Framework https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html
-### Google Cloud Architecture Framework https://cloud.google.com/architecture/framework
+## Architecture
+### [CSA Enterprise Architecture Reference Guide](https://cloudsecurityalliance.org/artifacts/enterprise-architecture-reference-guide-v2/)
+### [Microsoft Cybersecurity Reference Architectures](https://learn.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra)
+### [AWS Security Reference Architecture](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html)
+### [Google Cloud Architecture Framework](Security, privacy, and compliance](https://cloud.google.com/architecture/framework/security)
+### [Cloud Security Technical Reference Architecture](https://www.cisa.gov/resources-tools/resources/cloud-security-technical-reference-architecture)
+### [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/)
+### [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
+### [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework)
 
 ## Cloud Compliance Offerings by Provider 
 ### Azure https://learn.microsoft.com/en-us/compliance/regulatory/offering-home
@@ -142,8 +151,6 @@ Credit goes to all the authors, content creators, and contributors!
 ### The New CISO - https://podcasts.apple.com/us/podcast/the-new-ciso/id1460075361
 ### Hacker Valley Studio - https://hackervalley.com/
 ### SANS Podcasts - Several others within the list as well - https://www.sans.org/blog/cybersecurity-podcast-roundup/
-### On Cloud - https://podcasts.apple.com/us/podcast/on-cloud/id1406374662
-### Google Cloud Security Podcast - https://cloud.google.com/podcasts/cloud-security
 
 
 # Cheat Sheets
@@ -156,8 +163,6 @@ Credit goes to all the authors, content creators, and contributors!
 ### Cybersecurity & Infrastructure Security Agency Resources - https://www.cisa.gov/resources-tools/resources
 ### Cybersecurity & Infrastructure Security Agency Free Cybersecurity Services and Tools - https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools
 ### NIST Computer Security Resource Center Project - https://csrc.nist.gov/projects
-
-
 
 
 
