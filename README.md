@@ -25,12 +25,13 @@ Credit goes to all the authors, content creators, and contributors!
 ### [CSF Tools](https://csf.tools/)
 
 ## Control Mappings
-### NIST Cybersecurity Framework 1.1 https://www.nist.gov/cyberframework/framework
-### Secure Control Framework - https://securecontrolsframework.com/scf-download/
-###  Adobe Common Controls Framework - https://www.adobe.com/trust/compliance/adobe-ccf.html
-### Equifax Security Controls Framework - https://controlsframework.equifax.com/home
-### Center For Internet Security Critical Security Controls Navigator | https://www.cisecurity.org/controls/cis-controls-navigator
-### MITRE [MITRE ATTACK to NIST 800-53](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/nist-800-53-control-mappings/)
+### [NIST Cybersecurity Framework 1.1](https://www.nist.gov/cyberframework/framework)
+### [Secure Control Framework](https://securecontrolsframework.com/scf-download/)
+### [Adobe Common Controls Framework](https://www.adobe.com/trust/compliance/adobe-ccf.html)
+### [Equifax Security Controls Framework](https://controlsframework.equifax.com/home)
+### [Center For Internet Security Critical Security Controls Navigator](https://www.cisecurity.org/controls/cis-controls-navigator)
+### [MITRE - MITRE ATTACK to NIST 800-53](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/nist-800-53-control-mappings/)
+
 
 ## Supply Chain Management
 ### NIST Software Supply Chain Security Guidance |  https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity/software-supply-chain-security-guidance
