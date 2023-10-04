@@ -154,12 +154,13 @@
 ### [Cybersecurity & Infrastructure Security Agency Resources](https://www.cisa.gov/resources-tools/resources)
 ### [Cybersecurity & Infrastructure Security Agency Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools)
 ### [NIST Computer Security Resource Center Project](https://csrc.nist.gov/projects)
-
+### [Product Reviews](https://www.g2.com/)  
 ## Cheat Sheets
 ### [SANS](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
 
 ## Policy Templates
 ### [SANS](https://www.sans.org/information-security-policy/)  
+
 
 
 
