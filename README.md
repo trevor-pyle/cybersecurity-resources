@@ -158,7 +158,8 @@ Credit goes to all the authors, content creators, and contributors!
 ### [SANS](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
 
 ## Policy Templates
-### [SANS](https://www.sans.org/information-security-policy/)
+### [SANS](https://www.sans.org/information-security-policy/)  
+
 
   
 
