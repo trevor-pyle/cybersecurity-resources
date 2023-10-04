@@ -13,10 +13,10 @@ Credit goes to all the authors, content creators, and contributors!
 
 # Cloud Security
 ## Providers 
-### [Microsoft](https://learn.microsoft.com/en-us/security/)
-### [Azure](https://learn.microsoft.com/en-us/azure/security/)
-### [AWS](https://docs.aws.amazon.com/security/)
-### [GCP](https://cloud.google.com/docs/security/overview/whitepaper)
+### [Microsoft Security documentation](https://learn.microsoft.com/en-us/security/)
+### [Azure Security Documentation](https://learn.microsoft.com/en-us/azure/security/)
+### [AWS Security Documentation](https://docs.aws.amazon.com/security/)  
+### [Google Security Overview](https://cloud.google.com/docs/security/overview/whitepaper)  
 ### [Azure to AWS Services comparison - Excellent comparison of services for those working in multi-cloud environments](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/services)
 ### [Microsoft Cloud Security Benchmark Documentation](https://learn.microsoft.com/en-us/security/benchmark/azure/)
 
