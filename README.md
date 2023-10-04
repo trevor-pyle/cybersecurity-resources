@@ -61,31 +61,32 @@ Credit goes to all the authors, content creators, and contributors!
 ### [Wireshark](https://www.wireshark.org/)
 
 # Identity & Access Management
-## Zero Trust US Gov | https://zerotrust.cyber.gov/
-## Microsoft Zero Trust | https://www.microsoft.com/en-us/security/business/zero-trust
-### Strategy | https://zerotrust.cyber.gov/federal-zero-trust-strategy/
-### Maturity Model https://zerotrust.cyber.gov/zero-trust-maturity-model/
-### Cloud Security Technical Reference Architecture https://zerotrust.cyber.gov/cloud-security-technical-reference-architecture/
-### Zero Trust Maturity Model - https://www.cisa.gov/zero-trust-maturity-model
-### Department of Defense (DoD) Zero Trust Reference Architecture https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v2.0(U)_Sep22.pdf
-### Department of Defense (DoD) Zero Trust Strategy https://dodcio.defense.gov/Portals/0/Documents/Library/DoD-ZTStrategy.pdf
-### Department of Defense (DoD) Zero Trust Capability Execution Roadmap https://dodcio.defense.gov/Portals/0/Documents/Library/ZTCapabilitiesActivities.pdf
+### [Zero Trust - US Gov](https://zerotrust.cyber.gov/)
+### [Microsoft Zero Trust](https://www.microsoft.com/en-us/security/business/zero-trust)
+### [Zero Strategy](https://zerotrust.cyber.gov/federal-zero-trust-strategy/)
+### [Zero Trust Maturity Model](https://zerotrust.cyber.gov/zero-trust-maturity-model/)
+### [CISA Zero Trust Maturity Model](https://www.cisa.gov/zero-trust-maturity-model)
+### [Department of Defense (DoD) Zero Trust Reference Architecture](https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v2.0(U)_Sep22.pdf)
+### [Department of Defense (DoD) Zero Trust Strategy](https://dodcio.defense.gov/Portals/0/Documents/Library/DoD-ZTStrategy.pdf)
+### [Department of Defense (DoD) Zero Trust Capability Execution Roadmap](https://dodcio.defense.gov/Portals/0/Documents/Library/ZTCapabilitiesActivities.pdf)
 ## Remote Access 
-### Guide to Securing Remote Access Software | https://www.cisa.gov/resources-tools/resources/guide-securing-remote-access-software
+### [Guide to Securing Remote Access Software](https://www.cisa.gov/resources-tools/resources/guide-securing-remote-access-software)
 
 # Assessment & Testing 
-## Kali Linux https://www.kali.org/
-### Qualys Free Services https://www.qualys.com/free-services/
-### Open Worldwide Application Security Project (OWASP) – Publisher of the OWASP Top 10 web application security risks https://owasp.org/
-### OWASP Cheat Sheets https://cheatsheetseries.owasp.org/index.html
+### [Kali Linux](https://www.kali.org/)
+### [Qualys Free Services](https://www.qualys.com/free-services/)
+### [Open Worldwide Application Security Project (OWASP)](https://owasp.org/)
+### [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/index.html)
 ## Vulnerability Mgmt
-### Common Vulnerability Scoring System (CVSS) https://nvd.nist.gov/vuln-metrics/cvss
-### CISA Known Exploited Vulnerabilities Catalog https://www.cisa.gov/known-exploited-vulnerabilities-catalog
+### [Common Vulnerability Scoring System (CVSS)](https://nvd.nist.gov/vuln-metrics/cvss)
+### [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 
 # Incident Mgmt
 
 ### [NIST Computer Security Incident Handling Guide](https://csrc.nist.gov/pubs/sp/800/61/r2/final)
 ### [NIST Ransomware Protection and Response](https://csrc.nist.gov/Projects/ransomware-protection-and-response)
+### [No More Ransomeware Project](https://www.nomoreransom.org/en/index.html)
+### [Blueprint for Ransomware Defense](https://securityandtechnology.org/ransomwaretaskforce/blueprint-for-ransomware-defense/)
 ### [CISA Stop Ransomeware Resources](https://www.cisa.gov/stopransomware/resources)
 ### [Open Source Intelligence](https://osintframework.com/)
 ### [Virus Total](https://www.virustotal.com)
@@ -96,18 +97,18 @@ Credit goes to all the authors, content creators, and contributors!
 
 # Cloud Security
 ## Providers 
-### Microsoft | https://learn.microsoft.com/en-us/security/
-### Azure | https://learn.microsoft.com/en-us/azure/security/
-### AWS | https://docs.aws.amazon.com/security/
-### GCP | https://cloud.google.com/docs/security/overview/whitepaper
-### Azure to AWS Services comparison - Excellent comparison of services for those working in multi-cloud environments | https://learn.microsoft.com/en-us/azure/architecture/aws-professional/services
+### [Microsoft](https://learn.microsoft.com/en-us/security/)
+### [Azure](https://learn.microsoft.com/en-us/azure/security/)
+### [AWS](https://docs.aws.amazon.com/security/)
+### [GCP](https://cloud.google.com/docs/security/overview/whitepaper)
+### [Azure to AWS Services comparison](Excellent comparison of services for those working in multi-cloud environments | https://learn.microsoft.com/en-us/azure/architecture/aws-professional/services)
 
 ### [Microsoft Cloud Security Benchmark Documentation](https://learn.microsoft.com/en-us/security/benchmark/azure/)
 
 ## Shared Responsibilities
-### Azure https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility
-### AWS https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/shared-responsibility.html
-### GCP https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate
+### [Azure](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
+### [AWS](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/shared-responsibility.html)
+### [GCP](https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate)
 
 ## Architecture
 ### [CSA Enterprise Architecture Reference Guide](https://cloudsecurityalliance.org/artifacts/enterprise-architecture-reference-guide-v2/)
@@ -120,51 +121,48 @@ Credit goes to all the authors, content creators, and contributors!
 ### [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework)
 
 ## Cloud Compliance Offerings by Provider 
-### Azure https://learn.microsoft.com/en-us/compliance/regulatory/offering-home
-### AWS https://aws.amazon.com/compliance/programs/
-### GCP https://cloud.google.com/security/compliance/offerings
+### [Azure](https://learn.microsoft.com/en-us/compliance/regulatory/offering-home)
+### [AWS](https://aws.amazon.com/compliance/programs)
+### [GCP](https://cloud.google.com/security/compliance/offerings)
 
 # Career Paths
-### NIST National Initiative for Cybersecurity Education | https://niccs.cisa.gov/workforce-development/nice-framework
+### [NIST National Initiative for Cybersecurity Education](https://niccs.cisa.gov/workforce-development/nice-framework)
 
 # Certifications
-### Paul Jerimy | https://pauljerimy.com/security-certification-roadmap
+### [Paul Jerimy](https://pauljerimy.com/security-certification-roadmap)
 
 # Newsletters
-### Unsupervised Learning - Daniel Miessler - https://danielmiessler.com/
-### CloudSecList - Marco Lancini -  https://cloudseclist.com/
-### TLDR Sec - Clint Gibler - https://tldrsec.com/
-### SANS - https://www.sans.org/newsletters/
-### WSJ Cybersecurity https://www.wsj.com/newsletters
+### [Unsupervised Learning - Daniel Miessler](https://danielmiessler.com/)
+### [CloudSecList - Marco Lancini](https://cloudseclist.com/)
+### [TLDR Sec - Clint Gibler](https://tldrsec.com/)
+### [SANS](https://www.sans.org/newsletters/)
+### [WSJ Cybersecurity](https://www.wsj.com/newsletters)
 
 # Books 
-### Cybersecurity Cannons - https://icdt.osu.edu/cybercanon/bookreviews
+### [Cybersecurity Cannons](https://icdt.osu.edu/cybercanon/bookreviews)
 
 # Podcasts
-### Unsupervised Learning - https://podcasts.apple.com/us/podcast/unsupervised-learning/id1099711235
-### The Virtual CISO Podcast - https://podcasts.apple.com/us/podcast/the-virtual-ciso-podcast/id1498720073
-### CISO Stories Podcast - https://podcasts.apple.com/us/podcast/ciso-stories-podcast/id1553494094
-### CISO Tradecraft - https://www.cisotradecraft.com/episode-list
-### Life of a CISO - https://podcasts.apple.com/us/podcast/life-of-a-ciso-with-dr-eric-cole/id1458386656
-### Bulletproof Cyber - https://podcasts.apple.com/us/podcast/bulletproof-cyber/id1690068665
-### CISO Series Podcast Collections - https://cisoseries.com/ciso-series-shows/
-### The New CISO - https://podcasts.apple.com/us/podcast/the-new-ciso/id1460075361
-### Hacker Valley Studio - https://hackervalley.com/
-### SANS Podcasts - Several others within the list as well - https://www.sans.org/blog/cybersecurity-podcast-roundup/
+### [Unsupervised Learning](https://podcasts.apple.com/us/podcast/unsupervised-learning/id1099711235)
+### [The Virtual CISO Podcast](https://podcasts.apple.com/us/podcast/the-virtual-ciso-podcast/id1498720073)
+### [CISO Tradecraft](https://www.cisotradecraft.com/episode-list)
+### [Life of a CISO](https://podcasts.apple.com/us/podcast/life-of-a-ciso-with-dr-eric-cole/id1458386656)
+### [Bulletproof Cyber](https://podcasts.apple.com/us/podcast/bulletproof-cyber/id1690068665)
+### [CISO Series Podcast Collections[(https://cisoseries.com/ciso-series-shows/)
+### [The New CISO](https://podcasts.apple.com/us/podcast/the-new-ciso/id1460075361)
+### [Hacker Valley Studio](https://hackervalley.com/)
+### [SANS Podcasts - Several others within the list as well](https://www.sans.org/blog/cybersecurity-podcast-roundup/)
 
 
 # Cheat Sheets
-### SANS - https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
+### [SANS](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
 
 # Policy Templates
-### SANS - https://www.sans.org/information-security-policy/
+### [SANS](https://www.sans.org/information-security-policy/)
 
 # Additional Resources
-### Cybersecurity & Infrastructure Security Agency Resources - https://www.cisa.gov/resources-tools/resources
-### Cybersecurity & Infrastructure Security Agency Free Cybersecurity Services and Tools - https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools
-### NIST Computer Security Resource Center Project - https://csrc.nist.gov/projects
-
-
+### [Cybersecurity & Infrastructure Security Agency Resources](https://www.cisa.gov/resources-tools/resources)
+### [Cybersecurity & Infrastructure Security Agency Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools)
+### [NIST Computer Security Resource Center Project](https://csrc.nist.gov/projects)
 
 
 
