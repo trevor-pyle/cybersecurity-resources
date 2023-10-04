@@ -101,7 +101,7 @@ Credit goes to all the authors, content creators, and contributors!
 ### [Azure](https://learn.microsoft.com/en-us/azure/security/)
 ### [AWS](https://docs.aws.amazon.com/security/)
 ### [GCP](https://cloud.google.com/docs/security/overview/whitepaper)
-### [Azure to AWS Services comparison](Excellent comparison of services for those working in multi-cloud environments | https://learn.microsoft.com/en-us/azure/architecture/aws-professional/services)
+### [Azure to AWS Services comparison - Excellent comparison of services for those working in multi-cloud environments](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/services)
 
 ### [Microsoft Cloud Security Benchmark Documentation](https://learn.microsoft.com/en-us/security/benchmark/azure/)
 
@@ -114,7 +114,7 @@ Credit goes to all the authors, content creators, and contributors!
 ### [CSA Enterprise Architecture Reference Guide](https://cloudsecurityalliance.org/artifacts/enterprise-architecture-reference-guide-v2/)
 ### [Microsoft Cybersecurity Reference Architectures](https://learn.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra)
 ### [AWS Security Reference Architecture](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html)
-### [Google Cloud Architecture Framework](Security, privacy, and compliance](https://cloud.google.com/architecture/framework/security)
+### [Google Cloud Architecture Framework - Security, privacy, and compliance](https://cloud.google.com/architecture/framework/security)
 ### [Cloud Security Technical Reference Architecture](https://www.cisa.gov/resources-tools/resources/cloud-security-technical-reference-architecture)
 ### [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/)
 ### [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
@@ -147,7 +147,7 @@ Credit goes to all the authors, content creators, and contributors!
 ### [CISO Tradecraft](https://www.cisotradecraft.com/episode-list)
 ### [Life of a CISO](https://podcasts.apple.com/us/podcast/life-of-a-ciso-with-dr-eric-cole/id1458386656)
 ### [Bulletproof Cyber](https://podcasts.apple.com/us/podcast/bulletproof-cyber/id1690068665)
-### [CISO Series Podcast Collections[(https://cisoseries.com/ciso-series-shows/)
+### [CISO Series Podcast Collections](https://cisoseries.com/ciso-series-shows/)
 ### [The New CISO](https://podcasts.apple.com/us/podcast/the-new-ciso/id1460075361)
 ### [Hacker Valley Studio](https://hackervalley.com/)
 ### [SANS Podcasts - Several others within the list as well](https://www.sans.org/blog/cybersecurity-podcast-roundup/)
@@ -162,7 +162,8 @@ Credit goes to all the authors, content creators, and contributors!
 # Additional Resources
 ### [Cybersecurity & Infrastructure Security Agency Resources](https://www.cisa.gov/resources-tools/resources)
 ### [Cybersecurity & Infrastructure Security Agency Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools)
-### [NIST Computer Security Resource Center Project](https://csrc.nist.gov/projects)
+### [NIST Computer Security Resource Center Project](https://csrc.nist.gov/projects)  
+
 
 
 
