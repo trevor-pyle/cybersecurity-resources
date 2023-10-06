@@ -136,7 +136,8 @@
 ### [NIST National Initiative for Cybersecurity Education](https://niccs.cisa.gov/workforce-development/nice-framework)
 
 ## Certifications
-### [Paul Jerimy](https://pauljerimy.com/security-certification-roadmap)
+### [Paul Jerimy](https://pauljerimy.com/security-certification-roadmap)  
+### [Noah Aronov - Free Courses for Cyber](https://medium.com/@noahsec/free-courses-for-cyber-c2979ad3c9ee)  
 
 ## Newsletters
 ### [Unsupervised Learning - Daniel Miessler](https://danielmiessler.com/)
@@ -154,7 +155,10 @@
 ### [CISO Series Podcast Collections](https://cisoseries.com/ciso-series-shows/)
 ### [The New CISO](https://podcasts.apple.com/us/podcast/the-new-ciso/id1460075361)
 ### [Hacker Valley Studio](https://hackervalley.com/)
-### [SANS Podcasts - Several others within the list as well](https://www.sans.org/blog/cybersecurity-podcast-roundup/)
+### [SANS Podcasts - Several others within the list as well](https://www.sans.org/blog/cybersecurity-podcast-roundup/)  
+### [Cloud Security Podcast](https://podcasts.apple.com/us/podcast/cloud-security-podcast/id1489678590)  
+### [Resilient Cyber](https://podcasts.apple.com/us/podcast/resilient-cyber/id1555928024)  
+### [The Cyberlaw Podcast](https://podcasts.apple.com/us/podcast/the-cyberlaw-podcast/id830593115)  
 
 # Additional Resources
 ### [Cybersecurity & Infrastructure Security Agency Resources](https://www.cisa.gov/resources-tools/resources)
