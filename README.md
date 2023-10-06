@@ -39,7 +39,9 @@
 ## Cloud Compliance Offerings by Provider 
 ### [Azure](https://learn.microsoft.com/en-us/compliance/regulatory/offering-home)
 ### [AWS](https://aws.amazon.com/compliance/programs)
-### [GCP](https://cloud.google.com/security/compliance/offerings)
+### [GCP](https://cloud.google.com/security/compliance/offerings)  
+### [Microsoft Service Trust Portal](https://servicetrust.microsoft.com/)
+### [AWS Artifact](https://aws.amazon.com/artifact/)  
 
 # 📑  Governance, Risk, and Compliance
 ## National Institute of Standards & Technology (NIST)
@@ -47,7 +49,8 @@
 ### [800-171 Rev 2 | Protecting Controlled Unclassified Information in nonfederal systems and organizations](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final)  
 ### [800-171a Rev 2 | Assessment procedures for 800-171](https://csrc.nist.gov/publications/detail/sp/800-171a/final)
 ### [NIST Risk Management Framework](https://csrc.nist.gov/projects/risk-management/about-rmf)
-### [NIST Cybersecurity Framework 1.1](https://www.nist.gov/cyberframework/framework)
+### [NIST Cybersecurity Framework 1.1](https://www.nist.gov/cyberframework/framework)  
+### [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)  
 ### [Cybersecurity and Privacy Reference Tool](https://csrc.nist.gov/Projects/cprt)
 ### [NIST Projects](https://csrc.nist.gov/projects)
 ### [NIST Frameworks](https://www.nist.gov/frameworks)
@@ -60,7 +63,9 @@
 ### [Cybersecurity Maturity Model Certification (CMMC)](https://dodcio.defense.gov/CMMC/)
 ### [CMMC Accreditation Body](https://cyberab.org/)
 ### [Cloud Security Alliance Cloud Controls Matrix](https://cloudsecurityalliance.org/research/cloud-controls-matrix/)
-### [CSF Tools](https://csf.tools/)
+### [CSF Tools](https://csf.tools/)  
+### [Enduring Security Framework](https://www.nsa.gov/About/Cybersecurity-Collaboration-Center/Enduring-Security-Framework/)  
+### [GDPR](https://gdpr.eu/)  
 
 ## Control Mappings
 ### [NIST Cybersecurity Framework 1.1](https://www.nist.gov/cyberframework/framework)
@@ -81,6 +86,7 @@
 # Identity & Access Management
 ### [Zero Trust - US Gov](https://zerotrust.cyber.gov/)
 ### [Microsoft Zero Trust](https://www.microsoft.com/en-us/security/business/zero-trust)
+### [Microsoft Entra ID - Implement Identity Standards](https://learn.microsoft.com/en-us/azure/active-directory/standards/)  
 ### [Federal Zero Trust Strategy](https://zerotrust.cyber.gov/federal-zero-trust-strategy/)  
 ### [Zero Trust Maturity Model](https://zerotrust.cyber.gov/zero-trust-maturity-model/)
 ### [CISA Zero Trust Maturity Model](https://www.cisa.gov/zero-trust-maturity-model)
