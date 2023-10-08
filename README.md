@@ -94,7 +94,7 @@
 ### [Compliance Forge Prioritized C-SCRM Implementation Plan](https://content.complianceforge.com/graphics/example-cybersecurity-scrm-prioritized-implementation-plan.pdf)
 ### [European Union Agency for Cybersecurity - Good Practices for Supply Chain Cybersecurity](https://www.enisa.europa.eu/publications/good-practices-for-supply-chain-cybersecurity)
 
-# :accessibility: Identity & Access Management
+# :raised_hand_with_fingers_splayed: Identity & Access Management
 ### [Zero Trust - US Gov](https://zerotrust.cyber.gov/)
 ### [Microsoft Zero Trust](https://www.microsoft.com/en-us/security/business/zero-trust)
 ### [Microsoft Entra ID - Implement Identity Standards](https://learn.microsoft.com/en-us/azure/active-directory/standards/)  
@@ -125,7 +125,6 @@
 ### [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
 ### [TCP & UDP Ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 ### [Wireshark](https://www.wireshark.org/)
-
 
 # Security Architecture & Engineering
 ### [SABSA Enterprise Security Architecture](https://sabsa.org/sabsa-executive-summary/)
