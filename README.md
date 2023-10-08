@@ -91,7 +91,7 @@
 ### [Compliance Forge Prioritized C-SCRM Implementation Plan](https://content.complianceforge.com/graphics/example-cybersecurity-scrm-prioritized-implementation-plan.pdf)
 ### [European Union Agency for Cybersecurity - Good Practices for Supply Chain Cybersecurity](https://www.enisa.europa.eu/publications/good-practices-for-supply-chain-cybersecurity)
 
-# Identity & Access Management
+# :accessibility: Identity & Access Management
 ### [Zero Trust - US Gov](https://zerotrust.cyber.gov/)
 ### [Microsoft Zero Trust](https://www.microsoft.com/en-us/security/business/zero-trust)
 ### [Microsoft Entra ID - Implement Identity Standards](https://learn.microsoft.com/en-us/azure/active-directory/standards/)  
