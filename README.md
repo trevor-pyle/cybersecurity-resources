@@ -15,21 +15,21 @@
 # :books: Assessment & Testing 
 
 #### [Kali Linux](https://www.kali.org/)  
-### [Qualys Free Services](https://www.qualys.com/free-services/)
-### [Open Worldwide Application Security Project (OWASP)](https://owasp.org/)
-### [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/index.html)
-## Vulnerability Mgmt
-### [Common Vulnerability Scoring System (CVSS)](https://nvd.nist.gov/vuln-metrics/cvss)
-### [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+#### [Qualys Free Services](https://www.qualys.com/free-services/)
+#### [Open Worldwide Application Security Project (OWASP)](https://owasp.org/)
+#### [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/index.html)
+### Vulnerability Mgmt
+#### [Common Vulnerability Scoring System (CVSS)](https://nvd.nist.gov/vuln-metrics/cvss)
+#### [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 
 # ☁️ Cloud Security
-## Providers 
-### [Microsoft Security documentation](https://learn.microsoft.com/en-us/security/)
-### [Azure Security Documentation](https://learn.microsoft.com/en-us/azure/security/)
-### [AWS Security Documentation](https://docs.aws.amazon.com/security/)  
-### [Google Security Overview](https://cloud.google.com/docs/security/overview/whitepaper)  
-### [Azure to AWS Services comparison - Excellent comparison of services for those working in multi-cloud environments](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/services)
-### [Microsoft Cloud Security Benchmark Documentation](https://learn.microsoft.com/en-us/security/benchmark/azure/)
+### Providers 
+#### [Microsoft Security documentation](https://learn.microsoft.com/en-us/security/)
+#### [Azure Security Documentation](https://learn.microsoft.com/en-us/azure/security/)
+#### [AWS Security Documentation](https://docs.aws.amazon.com/security/)  
+#### [Google Security Overview](https://cloud.google.com/docs/security/overview/whitepaper)  
+#### [Azure to AWS Services comparison - Excellent comparison of services for those working in multi-cloud environments](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/services)
+#### [Microsoft Cloud Security Benchmark Documentation](https://learn.microsoft.com/en-us/security/benchmark/azure/)
 
 ## Shared Responsibilities
 ### [Azure](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
