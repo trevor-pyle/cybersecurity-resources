@@ -120,11 +120,12 @@
 ## Incident Reporting
 ### [DHS Harmonization of Cyber Incident Reporting to the Federal Government - Page 42 Reporting Requirements Inventory](https://www.dhs.gov/publication/harmonization-cyber-incident-reporting-federal-government)
 
-# Network Security
+# :twisted_rightwards_arrows: Network Security
 ### [OSI Model](https://en.wikipedia.org/wiki/OSI_model)
 ### [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
 ### [TCP & UDP Ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 ### [Wireshark](https://www.wireshark.org/)
+
 
 # Security Architecture & Engineering
 ### [SABSA Enterprise Security Architecture](https://sabsa.org/sabsa-executive-summary/)
