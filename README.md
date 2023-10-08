@@ -20,7 +20,7 @@
 #### [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/index.html)
 ### Vulnerability Mgmt
 #### [Common Vulnerability Scoring System (CVSS)](https://nvd.nist.gov/vuln-metrics/cvss)
-#### [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+#### [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)  
 
 
 # ☁️ Cloud Security
