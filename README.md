@@ -136,7 +136,7 @@
 ### [Center For Internet Security Hardened Images](https://www.cisecurity.org/cis-hardened-images)
 ### [Security Technical Implementation Guide Viewer](https://www.stigviewer.com/)
 
-# Professional Development & Continuous Learning
+# :brain: Professional Development & Continuous Learning
 ## Books 
 ### [Cybersecurity Cannons](https://icdt.osu.edu/cybercanon/bookreviews)
 
