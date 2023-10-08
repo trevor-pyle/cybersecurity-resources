@@ -105,7 +105,7 @@
 ## Remote Access 
 ### [Guide to Securing Remote Access Software](https://www.cisa.gov/resources-tools/resources/guide-securing-remote-access-software)
 
-# Incident Management
+# :rotating_light: Incident Management
 ### [NIST Computer Security Incident Handling Guide](https://csrc.nist.gov/pubs/sp/800/61/r2/final)
 ### [NIST Ransomware Protection and Response](https://csrc.nist.gov/Projects/ransomware-protection-and-response)
 ### [No More Ransomeware Project](https://www.nomoreransom.org/en/index.html)
