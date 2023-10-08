@@ -20,7 +20,7 @@
 ### [Common Vulnerability Scoring System (CVSS)](https://nvd.nist.gov/vuln-metrics/cvss)
 ### [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 
-# Cloud Security
+# ☁️Cloud Security
 ## Providers 
 ### [Microsoft Security documentation](https://learn.microsoft.com/en-us/security/)
 ### [Azure Security Documentation](https://learn.microsoft.com/en-us/azure/security/)
