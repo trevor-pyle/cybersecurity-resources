@@ -7,7 +7,8 @@
 *   [Vulnerability Mgmt](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#vulnerability-mgmt-1)
 -[Cloud Security] 
 -[Providers]
-📑  [Governance, Risk, and Compliance]  
+📑  [Governance, Risk, and Compliance]
+
 
 
 
