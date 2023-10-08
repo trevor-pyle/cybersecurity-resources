@@ -168,7 +168,7 @@
 ### [Resilient Cyber](https://podcasts.apple.com/us/podcast/resilient-cyber/id1555928024)  
 ### [The Cyberlaw Podcast](https://podcasts.apple.com/us/podcast/the-cyberlaw-podcast/id830593115)  
 
-# Additional Resources
+# :heavy_plus_sign: Additional Resources
 ### [Cybersecurity & Infrastructure Security Agency Resources](https://www.cisa.gov/resources-tools/resources)
 ### [Cybersecurity & Infrastructure Security Agency Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools)
 ### [NIST Computer Security Resource Center Project](https://csrc.nist.gov/projects)
