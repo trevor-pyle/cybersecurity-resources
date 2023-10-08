@@ -126,61 +126,63 @@
 ### [TCP & UDP Ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 ### [Wireshark](https://www.wireshark.org/)
 
-# Security Architecture & Engineering
-### [SABSA Enterprise Security Architecture](https://sabsa.org/sabsa-executive-summary/)
-### [NIST Systems Security Engineering Project](https://csrc.nist.gov/projects/systems-security-engineering-project)
-### [Threat Modeling - Adam Shostack](https://shostack.org/resources/threat-modeling)
-### [STRIDE Threat Model](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats)
-### [MITRE ATTACK Enterprise](https://attack.mitre.org/matrices/enterprise/)
-### [MITRE ATTACK Cloud](https://attack.mitre.org/matrices/enterprise/cloud/)
-### [MITRE ATTACK Network](https://attack.mitre.org/matrices/enterprise/network/)
-### [NIST Cryptographic Module Validation Program](https://csrc.nist.gov/projects/cryptographic-module-validation-program)
-### [Center For Internet Security Hardened Images](https://www.cisecurity.org/cis-hardened-images)
-### [Security Technical Implementation Guide Viewer](https://www.stigviewer.com/)
+# :classical_building: Security Architecture & Engineering
+#### [SABSA Enterprise Security Architecture](https://sabsa.org/sabsa-executive-summary/)
+#### [NIST Systems Security Engineering Project](https://csrc.nist.gov/projects/systems-security-engineering-project)
+#### [Threat Modeling - Adam Shostack](https://shostack.org/resources/threat-modeling)
+#### [STRIDE Threat Model](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats)
+#### [MITRE ATTACK Enterprise](https://attack.mitre.org/matrices/enterprise/)
+#### [MITRE ATTACK Cloud](https://attack.mitre.org/matrices/enterprise/cloud/)
+#### [MITRE ATTACK Network](https://attack.mitre.org/matrices/enterprise/network/)
+#### [NIST Cryptographic Module Validation Program](https://csrc.nist.gov/projects/cryptographic-module-validation-program)
+#### [Center For Internet Security Hardened Images](https://www.cisecurity.org/cis-hardened-images)
+#### [Security Technical Implementation Guide Viewer](https://www.stigviewer.com/)
 
 # :brain: Professional Development & Continuous Learning
-## Books 
-### [Cybersecurity Cannons](https://icdt.osu.edu/cybercanon/bookreviews)
+### Books 
+#### [Cybersecurity Cannons](https://icdt.osu.edu/cybercanon/bookreviews)
 
-## Career Paths
-### [NIST National Initiative for Cybersecurity Education](https://niccs.cisa.gov/workforce-development/nice-framework)
+### Career Paths
+#### [NIST National Initiative for Cybersecurity Education](https://niccs.cisa.gov/workforce-development/nice-framework)
 
-## Certifications
-### [Paul Jerimy](https://pauljerimy.com/security-certification-roadmap)  
-### [Noah Aronov - Free Courses for Cyber](https://medium.com/@noahsec/free-courses-for-cyber-c2979ad3c9ee)  
+### Certifications
+#### [Paul Jerimy](https://pauljerimy.com/security-certification-roadmap)  
+#### [Noah Aronov - Free Courses for Cyber](https://medium.com/@noahsec/free-courses-for-cyber-c2979ad3c9ee)  
 
-## Newsletters
-### [Unsupervised Learning - Daniel Miessler](https://danielmiessler.com/)
-### [CloudSecList - Marco Lancini](https://cloudseclist.com/)
-### [TLDR Sec - Clint Gibler](https://tldrsec.com/)
-### [SANS](https://www.sans.org/newsletters/)
-### [WSJ Cybersecurity](https://www.wsj.com/newsletters)
+### Newsletters
+#### [Unsupervised Learning - Daniel Miessler](https://danielmiessler.com/)
+#### [CloudSecList - Marco Lancini](https://cloudseclist.com/)
+#### [TLDR Sec - Clint Gibler](https://tldrsec.com/)
+#### [SANS](https://www.sans.org/newsletters/)
+#### [WSJ Cybersecurity](https://www.wsj.com/newsletters)
 
-## Podcasts
-### [Unsupervised Learning](https://podcasts.apple.com/us/podcast/unsupervised-learning/id1099711235)
-### [The Virtual CISO Podcast](https://podcasts.apple.com/us/podcast/the-virtual-ciso-podcast/id1498720073)
-### [CISO Tradecraft](https://www.cisotradecraft.com/episode-list)
-### [Life of a CISO](https://podcasts.apple.com/us/podcast/life-of-a-ciso-with-dr-eric-cole/id1458386656)
-### [Bulletproof Cyber](https://podcasts.apple.com/us/podcast/bulletproof-cyber/id1690068665)
-### [CISO Series Podcast Collections](https://cisoseries.com/ciso-series-shows/)
-### [The New CISO](https://podcasts.apple.com/us/podcast/the-new-ciso/id1460075361)
-### [Hacker Valley Studio](https://hackervalley.com/)
-### [SANS Podcasts - Several others within the list as well](https://www.sans.org/blog/cybersecurity-podcast-roundup/)  
-### [Cloud Security Podcast](https://podcasts.apple.com/us/podcast/cloud-security-podcast/id1489678590)  
-### [Resilient Cyber](https://podcasts.apple.com/us/podcast/resilient-cyber/id1555928024)  
-### [The Cyberlaw Podcast](https://podcasts.apple.com/us/podcast/the-cyberlaw-podcast/id830593115)  
+### Podcasts
+#### [Unsupervised Learning](https://podcasts.apple.com/us/podcast/unsupervised-learning/id1099711235)
+#### [The Virtual CISO Podcast](https://podcasts.apple.com/us/podcast/the-virtual-ciso-podcast/id1498720073)
+#### [CISO Tradecraft](https://www.cisotradecraft.com/episode-list)
+#### [Life of a CISO](https://podcasts.apple.com/us/podcast/life-of-a-ciso-with-dr-eric-cole/id1458386656)
+#### [Bulletproof Cyber](https://podcasts.apple.com/us/podcast/bulletproof-cyber/id1690068665)
+#### [CISO Series Podcast Collections](https://cisoseries.com/ciso-series-shows/)
+#### [The New CISO](https://podcasts.apple.com/us/podcast/the-new-ciso/id1460075361)
+#### [Hacker Valley Studio](https://hackervalley.com/)
+#### [SANS Podcasts - Several others within the list as well](https://www.sans.org/blog/cybersecurity-podcast-roundup/)  
+#### [Cloud Security Podcast](https://podcasts.apple.com/us/podcast/cloud-security-podcast/id1489678590)  
+#### [Resilient Cyber](https://podcasts.apple.com/us/podcast/resilient-cyber/id1555928024)  
+#### [The Cyberlaw Podcast](https://podcasts.apple.com/us/podcast/the-cyberlaw-podcast/id830593115)  
 
-# :heavy_plus_sign: Additional Resources
+## :heavy_plus_sign: Additional Resources
 
-### [Cybersecurity & Infrastructure Security Agency Resources](https://www.cisa.gov/resources-tools/resources)
-### [Cybersecurity & Infrastructure Security Agency Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools)
-### [NIST Computer Security Resource Center Project](https://csrc.nist.gov/projects)
-### [Product Reviews](https://www.g2.com/)  
-## Cheat Sheets
-### [SANS](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
+#### [Cybersecurity & Infrastructure Security Agency Resources](https://www.cisa.gov/resources-tools/resources)
+#### [Cybersecurity & Infrastructure Security Agency Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools)
+#### [NIST Computer Security Resource Center Project](https://csrc.nist.gov/projects)
+#### [Product Reviews](https://www.g2.com/)  
 
-## Policy Templates
-### [SANS](https://www.sans.org/information-security-policy/)  
+### Cheat Sheets
+#### [SANS](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
+
+### Policy Templates
+#### [SANS](https://www.sans.org/information-security-policy/)  
+
 
 
 
