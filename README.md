@@ -15,12 +15,13 @@
 # :books: Assessment & Testing 
 
 #### [Kali Linux](https://www.kali.org/)  
-#### [Qualys Free Services](https://www.qualys.com/free-services/)
-#### [Open Worldwide Application Security Project (OWASP)](https://owasp.org/)
+#### [Qualys Free Services](https://www.qualys.com/free-services/)  
+#### [Open Worldwide Application Security Project (OWASP)](https://owasp.org/)  
 #### [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/index.html)
 ### Vulnerability Mgmt
 #### [Common Vulnerability Scoring System (CVSS)](https://nvd.nist.gov/vuln-metrics/cvss)
 #### [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+
 
 # ☁️ Cloud Security
 ### Providers 
