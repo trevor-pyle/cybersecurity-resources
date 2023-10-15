@@ -32,99 +32,99 @@
 #### [Azure to AWS Services comparison - Excellent comparison of services for those working in multi-cloud environments](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/services)
 #### [Microsoft Cloud Security Benchmark Documentation](https://learn.microsoft.com/en-us/security/benchmark/azure/)
 
-## Shared Responsibilities
-### [Azure](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
-### [AWS](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/shared-responsibility.html)
-### [GCP](https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate)
+### Shared Responsibilities
+#### [Azure](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
+#### [AWS](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/shared-responsibility.html)
+#### [GCP](https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate)
 
-## Architecture
-### [CSA Enterprise Architecture Reference Guide](https://cloudsecurityalliance.org/artifacts/enterprise-architecture-reference-guide-v2/)
-### [Microsoft Cybersecurity Reference Architectures](https://learn.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra)
-### [AWS Security Reference Architecture](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html)
-### [Google Cloud Architecture Framework - Security, privacy, and compliance](https://cloud.google.com/architecture/framework/security)
-### [Cloud Security Technical Reference Architecture](https://www.cisa.gov/resources-tools/resources/cloud-security-technical-reference-architecture)
-### [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/)
-### [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
-### [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework)
+### Architecture
+#### [CSA Enterprise Architecture Reference Guide](https://cloudsecurityalliance.org/artifacts/enterprise-architecture-reference-guide-v2/)
+#### [Microsoft Cybersecurity Reference Architectures](https://learn.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra)
+#### [AWS Security Reference Architecture](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html)
+#### [Google Cloud Architecture Framework - Security, privacy, and compliance](https://cloud.google.com/architecture/framework/security)
+#### [Cloud Security Technical Reference Architecture](https://www.cisa.gov/resources-tools/resources/cloud-security-technical-reference-architecture)
+#### [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/)
+#### [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
+#### [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework)
 
-## Cloud Compliance Offerings by Provider 
-### [Azure](https://learn.microsoft.com/en-us/compliance/regulatory/offering-home)
-### [AWS](https://aws.amazon.com/compliance/programs)
-### [GCP](https://cloud.google.com/security/compliance/offerings)  
-### [Microsoft Service Trust Portal](https://servicetrust.microsoft.com/)
-### [AWS Artifact](https://aws.amazon.com/artifact/)  
+### Cloud Compliance Offerings by Provider 
+#### [Azure](https://learn.microsoft.com/en-us/compliance/regulatory/offering-home)
+#### [AWS](https://aws.amazon.com/compliance/programs)
+#### [GCP](https://cloud.google.com/security/compliance/offerings)  
+#### [Microsoft Service Trust Portal](https://servicetrust.microsoft.com/)
+#### [AWS Artifact](https://aws.amazon.com/artifact/)  
 
 # 📑  Governance, Risk, and Compliance
-## National Institute of Standards & Technology (NIST)
-### [800-53 Rev 5 | Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
-### [800-171 Rev 2 | Protecting Controlled Unclassified Information in nonfederal systems and organizations](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final)  
-### [800-171a Rev 2 | Assessment procedures for 800-171](https://csrc.nist.gov/publications/detail/sp/800-171a/final)
-### [NIST Risk Management Framework](https://csrc.nist.gov/projects/risk-management/about-rmf)
-### [NIST Cybersecurity Framework 1.1](https://www.nist.gov/cyberframework/framework)  
-### [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)  
-### [Cybersecurity and Privacy Reference Tool](https://csrc.nist.gov/Projects/cprt)
-### [NIST Projects](https://csrc.nist.gov/projects)
-### [NIST Frameworks](https://www.nist.gov/frameworks)
+### National Institute of Standards & Technology (NIST)
+#### [800-53 Rev 5 | Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
+#### [800-171 Rev 2 | Protecting Controlled Unclassified Information in nonfederal systems and organizations](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final)  
+#### [800-171a Rev 2 | Assessment procedures for 800-171](https://csrc.nist.gov/publications/detail/sp/800-171a/final)
+#### [NIST Risk Management Framework](https://csrc.nist.gov/projects/risk-management/about-rmf)
+#### [NIST Cybersecurity Framework 1.1](https://www.nist.gov/cyberframework/framework)  
+#### [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)  
+#### [Cybersecurity and Privacy Reference Tool](https://csrc.nist.gov/Projects/cprt)
+#### [NIST Projects](https://csrc.nist.gov/projects)
+#### [NIST Frameworks](https://www.nist.gov/frameworks)
 
-## Additional Frameworks | Standards
-### [Payment Card Industry Digital Security Standards (4.0 & 3.2.1)](https://www.pcisecuritystandards.org/document_library/)
-### [Center For Internet Security Critical Security Controls](https://www.cisecurity.org/controls/cis-controls-list)
-### [New York Department of Financial Services – Cybersecurity Requirements for Financial Services Companies](https://www.dfs.ny.gov/industry_guidance/cybersecurity)
-### [US State Privacy Legislation Tracker](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/)
-### [Cybersecurity Maturity Model Certification (CMMC)](https://dodcio.defense.gov/CMMC/)
-### [CMMC Accreditation Body](https://cyberab.org/)
-### [Cloud Security Alliance Cloud Controls Matrix](https://cloudsecurityalliance.org/research/cloud-controls-matrix/)
-### [CSF Tools](https://csf.tools/)  
-### [Enduring Security Framework](https://www.nsa.gov/About/Cybersecurity-Collaboration-Center/Enduring-Security-Framework/)  
-### [GDPR](https://gdpr.eu/)  
+### Additional Frameworks | Standards
+#### [Payment Card Industry Digital Security Standards (4.0 & 3.2.1)](https://www.pcisecuritystandards.org/document_library/)
+#### [Center For Internet Security Critical Security Controls](https://www.cisecurity.org/controls/cis-controls-list)
+#### [New York Department of Financial Services – Cybersecurity Requirements for Financial Services Companies](https://www.dfs.ny.gov/industry_guidance/cybersecurity)
+#### [US State Privacy Legislation Tracker](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/)
+#### [Cybersecurity Maturity Model Certification (CMMC)](https://dodcio.defense.gov/CMMC/)
+#### [CMMC Accreditation Body](https://cyberab.org/)
+#### [Cloud Security Alliance Cloud Controls Matrix](https://cloudsecurityalliance.org/research/cloud-controls-matrix/)
+#### [CSF Tools](https://csf.tools/)  
+#### [Enduring Security Framework](https://www.nsa.gov/About/Cybersecurity-Collaboration-Center/Enduring-Security-Framework/)  
+#### [GDPR](https://gdpr.eu/)  
 
-## Control Mappings
-### [NIST Cybersecurity Framework 1.1](https://www.nist.gov/cyberframework/framework)
-### [Secure Control Framework](https://securecontrolsframework.com/scf-download/)
-### [Adobe Common Controls Framework](https://www.adobe.com/trust/compliance/adobe-ccf.html)
-### [Equifax Security Controls Framework](https://controlsframework.equifax.com/home)
-### [Center For Internet Security Critical Security Controls Navigator](https://www.cisecurity.org/controls/cis-controls-navigator)
-### [MITRE - MITRE ATTACK to NIST 800-53](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/nist-800-53-control-mappings/)
+### Control Mappings
+#### [NIST Cybersecurity Framework 1.1](https://www.nist.gov/cyberframework/framework)
+#### [Secure Control Framework](https://securecontrolsframework.com/scf-download/)
+#### [Adobe Common Controls Framework](https://www.adobe.com/trust/compliance/adobe-ccf.html)
+#### [Equifax Security Controls Framework](https://controlsframework.equifax.com/home)
+#### [Center For Internet Security Critical Security Controls Navigator](https://www.cisecurity.org/controls/cis-controls-navigator)
+#### [MITRE - MITRE ATTACK to NIST 800-53](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/nist-800-53-control-mappings/)
 
-## Supply Chain Management
-### [NIST Software Supply Chain Security Guidance](https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity/software-supply-chain-security-guidance)
-### [NIST Cybersecurity Supply Chain Risk Management](https://csrc.nist.gov/projects/cyber-supply-chain-risk-management)
-### [CISA Information and communications Technology Supply Chain Risk Management](https://www.cisa.gov/information-and-communications-technology-supply-chain-risk-management)
-### [MITRE System of Trust](https://sot.mitre.org/framework/system_of_trust.html)
-### [Compliance Forge Prioritized C-SCRM Implementation Plan](https://content.complianceforge.com/graphics/example-cybersecurity-scrm-prioritized-implementation-plan.pdf)
-### [European Union Agency for Cybersecurity - Good Practices for Supply Chain Cybersecurity](https://www.enisa.europa.eu/publications/good-practices-for-supply-chain-cybersecurity)
+### Supply Chain Management
+#### [NIST Software Supply Chain Security Guidance](https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity/software-supply-chain-security-guidance)
+#### [NIST Cybersecurity Supply Chain Risk Management](https://csrc.nist.gov/projects/cyber-supply-chain-risk-management)
+#### [CISA Information and Communications Technology Supply Chain Risk Management](https://www.cisa.gov/information-and-communications-technology-supply-chain-risk-management)
+#### [MITRE System of Trust](https://sot.mitre.org/framework/system_of_trust.html)
+#### [Compliance Forge Prioritized C-SCRM Implementation Plan](https://content.complianceforge.com/graphics/example-cybersecurity-scrm-prioritized-implementation-plan.pdf)
+#### [European Union Agency for Cybersecurity - Good Practices for Supply Chain Cybersecurity](https://www.enisa.europa.eu/publications/good-practices-for-supply-chain-cybersecurity)
 
 # :raised_hand_with_fingers_splayed: Identity & Access Management
-### [Zero Trust - US Gov](https://zerotrust.cyber.gov/)
-### [Microsoft Zero Trust](https://www.microsoft.com/en-us/security/business/zero-trust)
-### [Microsoft Entra ID - Implement Identity Standards](https://learn.microsoft.com/en-us/azure/active-directory/standards/)  
-### [Federal Zero Trust Strategy](https://zerotrust.cyber.gov/federal-zero-trust-strategy/)  
-### [Zero Trust Maturity Model](https://zerotrust.cyber.gov/zero-trust-maturity-model/)
-### [CISA Zero Trust Maturity Model](https://www.cisa.gov/zero-trust-maturity-model)
-### [Department of Defense (DoD) Zero Trust Reference Architecture](https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v2.0(U)_Sep22.pdf)
-### [Department of Defense (DoD) Zero Trust Strategy](https://dodcio.defense.gov/Portals/0/Documents/Library/DoD-ZTStrategy.pdf)
-### [Department of Defense (DoD) Zero Trust Capability Execution Roadmap](https://dodcio.defense.gov/Portals/0/Documents/Library/ZTCapabilitiesActivities.pdf)
-## Remote Access 
+#### [Zero Trust - US Gov](https://zerotrust.cyber.gov/)
+#### [Microsoft Zero Trust](https://www.microsoft.com/en-us/security/business/zero-trust)
+#### [Microsoft Entra ID - Implement Identity Standards](https://learn.microsoft.com/en-us/azure/active-directory/standards/)  
+#### [Federal Zero Trust Strategy](https://zerotrust.cyber.gov/federal-zero-trust-strategy/)  
+#### [Zero Trust Maturity Model](https://zerotrust.cyber.gov/zero-trust-maturity-model/)
+#### [CISA Zero Trust Maturity Model](https://www.cisa.gov/zero-trust-maturity-model)
+#### [Department of Defense (DoD) Zero Trust Reference Architecture](https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v2.0(U)_Sep22.pdf)
+#### [Department of Defense (DoD) Zero Trust Strategy](https://dodcio.defense.gov/Portals/0/Documents/Library/DoD-ZTStrategy.pdf)
+#### [Department of Defense (DoD) Zero Trust Capability Execution Roadmap](https://dodcio.defense.gov/Portals/0/Documents/Library/ZTCapabilitiesActivities.pdf)
+### Remote Access 
 ### [Guide to Securing Remote Access Software](https://www.cisa.gov/resources-tools/resources/guide-securing-remote-access-software)
 
 # :rotating_light: Incident Management
-### [NIST Computer Security Incident Handling Guide](https://csrc.nist.gov/pubs/sp/800/61/r2/final)
-### [NIST Ransomware Protection and Response](https://csrc.nist.gov/Projects/ransomware-protection-and-response)
-### [No More Ransomeware Project](https://www.nomoreransom.org/en/index.html)
-### [Blueprint for Ransomware Defense](https://securityandtechnology.org/ransomwaretaskforce/blueprint-for-ransomware-defense/)
-### [CISA Stop Ransomeware Resources](https://www.cisa.gov/stopransomware/resources)
-### [Open Source Intelligence](https://osintframework.com/)
-### [Virus Total](https://www.virustotal.com)
-### [Shodan](https://www.shodan.io/)
+#### [NIST Computer Security Incident Handling Guide](https://csrc.nist.gov/pubs/sp/800/61/r2/final)
+#### [NIST Ransomware Protection and Response](https://csrc.nist.gov/Projects/ransomware-protection-and-response)
+#### [No More Ransomeware Project](https://www.nomoreransom.org/en/index.html)
+#### [Blueprint for Ransomware Defense](https://securityandtechnology.org/ransomwaretaskforce/blueprint-for-ransomware-defense/)
+#### [CISA Stop Ransomeware Resources](https://www.cisa.gov/stopransomware/resources)
+#### [Open Source Intelligence](https://osintframework.com/)
+#### [Virus Total](https://www.virustotal.com)
+#### [Shodan](https://www.shodan.io/)
 
-## Incident Reporting
-### [DHS Harmonization of Cyber Incident Reporting to the Federal Government - Page 42 Reporting Requirements Inventory](https://www.dhs.gov/publication/harmonization-cyber-incident-reporting-federal-government)
+### Incident Reporting
+#### [DHS Harmonization of Cyber Incident Reporting to the Federal Government - Page 42 Reporting Requirements Inventory](https://www.dhs.gov/publication/harmonization-cyber-incident-reporting-federal-government)
 
 # :twisted_rightwards_arrows: Network Security
-### [OSI Model](https://en.wikipedia.org/wiki/OSI_model)
-### [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
-### [TCP & UDP Ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
-### [Wireshark](https://www.wireshark.org/)
+#### [OSI Model](https://en.wikipedia.org/wiki/OSI_model)
+#### [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
+#### [TCP & UDP Ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+#### [Wireshark](https://www.wireshark.org/)
 
 # :classical_building: Security Architecture & Engineering
 #### [SABSA Enterprise Security Architecture](https://sabsa.org/sabsa-executive-summary/)
@@ -170,7 +170,7 @@
 #### [Resilient Cyber](https://podcasts.apple.com/us/podcast/resilient-cyber/id1555928024)  
 #### [The Cyberlaw Podcast](https://podcasts.apple.com/us/podcast/the-cyberlaw-podcast/id830593115)  
 
-## :heavy_plus_sign: Additional Resources
+### :heavy_plus_sign: Additional Resources
 
 #### [Cybersecurity & Infrastructure Security Agency Resources](https://www.cisa.gov/resources-tools/resources)
 #### [Cybersecurity & Infrastructure Security Agency Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools)
@@ -182,6 +182,9 @@
 
 ### Policy Templates
 #### [SANS](https://www.sans.org/information-security-policy/)  
+
+
+
 
 
 
