@@ -3,7 +3,7 @@
 **Credit goes to all the authors, content creators, and contributors**!
 
 # Table Of Contents
-- [Assessment & Testing](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#assessment--testing-1)  
+* [Assessment & Testing](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#assessment--testing-1)  
 * [Cloud Security](https://github.com/trevor-pyle/cybersecurity-resources#%EF%B8%8F-cloud-security)
 * [Governance, Risk, and Compliance](https://github.com/trevor-pyle/cybersecurity-resources#--governance-risk-and-compliance)
 * [Identity & Access Management](https://github.com/trevor-pyle/cybersecurity-resources#raised_hand_with_fingers_splayed-identity--access-management)
