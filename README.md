@@ -7,10 +7,10 @@
 * [Cloud Security](https://github.com/trevor-pyle/cybersecurity-resources#%EF%B8%8F-cloud-security)
 * [Governance, Risk, and Compliance](https://github.com/trevor-pyle/cybersecurity-resources#--governance-risk-and-compliance)
 * [Identity & Access Management](https://github.com/trevor-pyle/cybersecurity-resources#raised_hand_with_fingers_splayed-identity--access-management)
-
-* 
-
-
+* [Incident Management](https://github.com/trevor-pyle/cybersecurity-resources#rotating_light-incident-management)
+* [Network Security](https://github.com/trevor-pyle/cybersecurity-resources#twisted_rightwards_arrows-network-security)
+* [Security Architecture & Engineering](https://github.com/trevor-pyle/cybersecurity-resources#classical_building-security-architecture--engineering)
+* [Professional Development & Continuous Learning](https://github.com/trevor-pyle/cybersecurity-resources#brain-professional-development--continuous-learning)
 
 
 # :books: Assessment & Testing 
