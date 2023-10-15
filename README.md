@@ -78,6 +78,12 @@
 #### [CSF Tools](https://csf.tools/)  
 #### [Enduring Security Framework](https://www.nsa.gov/About/Cybersecurity-Collaboration-Center/Enduring-Security-Framework/)  
 #### [GDPR](https://gdpr.eu/)  
+#### [FedRAMP](https://www.fedramp.gov/)
+#### [StateRAMP](https://stateramp.org/)
+#### [US Food & Drug Administration - Cybersecurity in Medical Devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-medical-devices-quality-system-considerations-and-content-premarket-submissions)
+#### [US Dept of Health & Human Services - HIPAA](https://www.hhs.gov/hipaa/index.html)
+
+
 
 ### Control Mappings
 #### [NIST Cybersecurity Framework 1.1](https://www.nist.gov/cyberframework/framework)
