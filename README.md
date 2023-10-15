@@ -4,9 +4,7 @@
 
 # Table Of Contents
 - [Assessment & Testing](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#assessment--testing-1)  
-*   [Vulnerability Mgmt](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#vulnerability-mgmt-1)
--[Cloud Security] 
--[Providers]
+* [Cloud Security](https://github.com/trevor-pyle/cybersecurity-resources#%EF%B8%8F-cloud-security)
 📑  [Governance, Risk, and Compliance]
 
 
@@ -182,6 +180,8 @@
 
 ### Policy Templates
 #### [SANS](https://www.sans.org/information-security-policy/)  
+
+
 
 
 
