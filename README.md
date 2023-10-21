@@ -79,7 +79,7 @@
 #### [CMMC Center of Awesomeness](https://www.cmmc-coa.com/)  
 #### [Cloud Security Alliance Cloud Controls Matrix](https://cloudsecurityalliance.org/research/cloud-controls-matrix/)
 #### [CSF Tools](https://csf.tools/)  
-#### [Enduring Security Framework](https://www.nsa.gov/About/Cybersecurity-Collaboration-Center/Enduring-Security-Framework/)  
+#### [National Security Agency/Central Security Service - Enduring Security Framework](https://www.nsa.gov/About/Cybersecurity-Collaboration-Center/Enduring-Security-Framework/)  
 #### [GDPR](https://gdpr.eu/)  
 #### [FedRAMP](https://www.fedramp.gov/)
 #### [StateRAMP](https://stateramp.org/)
