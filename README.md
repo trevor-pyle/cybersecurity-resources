@@ -22,6 +22,8 @@
 ### Vulnerability Mgmt
 #### [Common Vulnerability Scoring System (CVSS)](https://nvd.nist.gov/vuln-metrics/cvss)
 #### [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)  
+#### [MITRE Common Weakness Enumeration](https://cwe.mitre.org/)
+
 
 
 # ☁️ Cloud Security
@@ -74,6 +76,7 @@
 #### [US State Privacy Legislation Tracker](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/)
 #### [Cybersecurity Maturity Model Certification (CMMC)](https://dodcio.defense.gov/CMMC/)
 #### [CMMC Accreditation Body](https://cyberab.org/)
+#### [CMMC Center of Awesomeness](https://www.cmmc-coa.com/)  
 #### [Cloud Security Alliance Cloud Controls Matrix](https://cloudsecurityalliance.org/research/cloud-controls-matrix/)
 #### [CSF Tools](https://csf.tools/)  
 #### [Enduring Security Framework](https://www.nsa.gov/About/Cybersecurity-Collaboration-Center/Enduring-Security-Framework/)  
@@ -82,6 +85,11 @@
 #### [StateRAMP](https://stateramp.org/)
 #### [US Food & Drug Administration - Cybersecurity in Medical Devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-medical-devices-quality-system-considerations-and-content-premarket-submissions)
 #### [US Dept of Health & Human Services - HIPAA](https://www.hhs.gov/hipaa/index.html)
+#### [International Organization for Standardization - Publicly Available Standards](https://standards.iso.org/ittf/PubliclyAvailableStandards/index.html)
+#### [FAIR Institute - FAIR Materiality Assessment Model](https://www.fairinstitute.org/resources/fair-mam)
+
+
+
 
 
 
@@ -144,6 +152,8 @@
 #### [NIST Cryptographic Module Validation Program](https://csrc.nist.gov/projects/cryptographic-module-validation-program)
 #### [Center For Internet Security Hardened Images](https://www.cisecurity.org/cis-hardened-images)
 #### [Security Technical Implementation Guide Viewer](https://www.stigviewer.com/)
+#### [CISA Secure By Design](https://www.cisa.gov/securebydesign)
+
 
 # :brain: Professional Development & Continuous Learning
 ### Books 
