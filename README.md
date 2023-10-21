@@ -30,6 +30,9 @@
 
 </details>
 
+<details>
+<summary> ☁️ Cloud Security </summary>
+
 # ☁️ Cloud Security
 ### Providers 
 #### [Microsoft Security documentation](https://learn.microsoft.com/en-us/security/)
@@ -60,6 +63,8 @@
 #### [GCP](https://cloud.google.com/security/compliance/offerings)  
 #### [Microsoft Service Trust Portal](https://servicetrust.microsoft.com/)
 #### [AWS Artifact](https://aws.amazon.com/artifact/)  
+
+</details>  
 
 # 📑  Governance, Risk, and Compliance
 ### National Institute of Standards & Technology (NIST)
