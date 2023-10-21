@@ -189,7 +189,9 @@
 #### [Cloud Security Podcast](https://podcasts.apple.com/us/podcast/cloud-security-podcast/id1489678590)  
 #### [Resilient Cyber](https://podcasts.apple.com/us/podcast/resilient-cyber/id1555928024)  
 #### [The Cyberlaw Podcast](https://podcasts.apple.com/us/podcast/the-cyberlaw-podcast/id830593115)  
-
+#### [Cloud Security Podcast Network](https://www.cloudsecuritypodcast.tv/)
+#### [Down the Security Rabbithole Podcast](https://podcasts.apple.com/us/podcast/down-the-security-rabbithole-podcast-dtsr/id466659176)
+  
 ### :heavy_plus_sign: Additional Resources
 
 #### [Cybersecurity & Infrastructure Security Agency Resources](https://www.cisa.gov/resources-tools/resources)
