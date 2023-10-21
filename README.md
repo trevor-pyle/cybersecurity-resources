@@ -4,7 +4,7 @@
 
 # Table Of Contents
 * [Assessment & Testing](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#assessment--testing-1)
-  + [Vulnerability Mgmt](https://github.com/trevor-pyle/cybersecurity-resources#vulnerability-mgmt)  
+  + [Vulnerability Management](https://github.com/trevor-pyle/cybersecurity-resources#vulnerability-mgmt)    
 * [Cloud Security](https://github.com/trevor-pyle/cybersecurity-resources#%EF%B8%8F-cloud-security)
 * [Governance, Risk, and Compliance](https://github.com/trevor-pyle/cybersecurity-resources#--governance-risk-and-compliance)
 * [Identity & Access Management](https://github.com/trevor-pyle/cybersecurity-resources#raised_hand_with_fingers_splayed-identity--access-management)
@@ -23,7 +23,7 @@
 #### [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/index.html)
 #### [NIST 800-84 - Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities](https://www.nist.gov/privacy-framework/nist-sp-800-84)  
 #### [SANS - Securing Web Application Technologies Checklist](https://www.sans.org/cloud-security/securing-web-application-technologies/)  
-### Vulnerability Mgmt
+### Vulnerability Management
 #### [Common Vulnerability Scoring System (CVSS)](https://nvd.nist.gov/vuln-metrics/cvss)
 #### [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)  
 #### [MITRE Common Weakness Enumeration](https://cwe.mitre.org/)
