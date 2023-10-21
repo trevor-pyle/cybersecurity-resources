@@ -46,7 +46,7 @@
 #### [CSA Enterprise Architecture Reference Guide](https://cloudsecurityalliance.org/artifacts/enterprise-architecture-reference-guide-v2/)
 #### [Microsoft Cybersecurity Reference Architectures](https://learn.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra)
 #### [AWS Security Reference Architecture](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html)
-#### [Google Cloud Architecture Framework - Security, privacy, and compliance](https://cloud.google.com/architecture/framework/security)
+#### [Google Cloud Architecture Framework - Security, Privacy, and Compliance](https://cloud.google.com/architecture/framework/security)  
 #### [Cloud Security Technical Reference Architecture](https://www.cisa.gov/resources-tools/resources/cloud-security-technical-reference-architecture)
 #### [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/)
 #### [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
