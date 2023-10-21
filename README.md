@@ -12,6 +12,7 @@
 * [Security Architecture & Engineering](https://github.com/trevor-pyle/cybersecurity-resources#classical_building-security-architecture--engineering)
 * [Professional Development & Continuous Learning](https://github.com/trevor-pyle/cybersecurity-resources#brain-professional-development--continuous-learning)
 
+<details>
 
 # :books: Assessment & Testing 
 
@@ -26,7 +27,7 @@
 #### [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)  
 #### [MITRE Common Weakness Enumeration](https://cwe.mitre.org/)
 
-
+</details>
 
 # ☁️ Cloud Security
 ### Providers 
