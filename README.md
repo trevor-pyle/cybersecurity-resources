@@ -13,6 +13,7 @@
 * [Professional Development & Continuous Learning](https://github.com/trevor-pyle/cybersecurity-resources#brain-professional-development--continuous-learning)
 
 <details>
+<summary> :books: Assessment & Testing </summary>  
 
 # :books: Assessment & Testing 
 
