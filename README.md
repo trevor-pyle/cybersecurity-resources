@@ -156,6 +156,7 @@
 #### [Center For Internet Security Hardened Images](https://www.cisecurity.org/cis-hardened-images)
 #### [Security Technical Implementation Guide Viewer](https://www.stigviewer.com/)
 #### [CISA Secure By Design](https://www.cisa.gov/securebydesign)
+#### [Cyber Kill Chain - Lockheed Martin](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)  
 
 
 # :brain: Professional Development & Continuous Learning
