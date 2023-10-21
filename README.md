@@ -19,6 +19,7 @@
 #### [Qualys Free Services](https://www.qualys.com/free-services/)  
 #### [Open Worldwide Application Security Project (OWASP)](https://owasp.org/)  
 #### [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/index.html)
+#### [NIST 800-84 - Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities](https://www.nist.gov/privacy-framework/nist-sp-800-84)  
 ### Vulnerability Mgmt
 #### [Common Vulnerability Scoring System (CVSS)](https://nvd.nist.gov/vuln-metrics/cvss)
 #### [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)  
@@ -147,6 +148,7 @@
 #### [NIST Systems Security Engineering Project](https://csrc.nist.gov/projects/systems-security-engineering-project)
 #### [Threat Modeling - Adam Shostack](https://shostack.org/resources/threat-modeling)
 #### [STRIDE Threat Model](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats)
+#### [DREAD Threat Modeling](https://threat-modeling.com/dread-threat-modeling/)  
 #### [MITRE ATTACK Enterprise](https://attack.mitre.org/matrices/enterprise/)
 #### [MITRE ATTACK Cloud](https://attack.mitre.org/matrices/enterprise/cloud/)
 #### [MITRE ATTACK Network](https://attack.mitre.org/matrices/enterprise/network/)
