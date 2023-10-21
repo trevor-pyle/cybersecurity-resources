@@ -20,6 +20,7 @@
 #### [Open Worldwide Application Security Project (OWASP)](https://owasp.org/)  
 #### [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/index.html)
 #### [NIST 800-84 - Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities](https://www.nist.gov/privacy-framework/nist-sp-800-84)  
+#### [SANS - Securing Web Application Technologies Checklist](https://www.sans.org/cloud-security/securing-web-application-technologies/)  
 ### Vulnerability Mgmt
 #### [Common Vulnerability Scoring System (CVSS)](https://nvd.nist.gov/vuln-metrics/cvss)
 #### [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)  
