@@ -111,6 +111,7 @@
 
 # :raised_hand_with_fingers_splayed: Identity & Access Management
 #### [Zero Trust - US Gov](https://zerotrust.cyber.gov/)
+#### [NIST Zero Trust Architecture](https://www.nist.gov/publications/zero-trust-architecture)  
 #### [Microsoft Zero Trust](https://www.microsoft.com/en-us/security/business/zero-trust)
 #### [Microsoft Entra ID - Implement Identity Standards](https://learn.microsoft.com/en-us/azure/active-directory/standards/)  
 #### [Federal Zero Trust Strategy](https://zerotrust.cyber.gov/federal-zero-trust-strategy/)  
