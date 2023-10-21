@@ -201,6 +201,7 @@
 #### [Cybersecurity & Infrastructure Security Agency Resources](https://www.cisa.gov/resources-tools/resources)
 #### [Cybersecurity & Infrastructure Security Agency Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools)
 #### [NIST Computer Security Resource Center Project](https://csrc.nist.gov/projects)
+#### [European Union Agency for Cybersecurity - ENISA | Publications](https://www.enisa.europa.eu/publications#c3=2013&c3=2023&c3=false&c5=publicationDate&reversed=on&b_start=0)  
 #### [Product Reviews](https://www.g2.com/)  
 
 ### Cheat Sheets
