@@ -125,6 +125,8 @@
 #### [MITRE System of Trust](https://sot.mitre.org/framework/system_of_trust.html)
 #### [Compliance Forge Prioritized C-SCRM Implementation Plan](https://content.complianceforge.com/graphics/example-cybersecurity-scrm-prioritized-implementation-plan.pdf)
 #### [European Union Agency for Cybersecurity - Good Practices for Supply Chain Cybersecurity](https://www.enisa.europa.eu/publications/good-practices-for-supply-chain-cybersecurity)
+#### [CISA Software Bill of Materials (SBOM)](https://www.cisa.gov/sbom)
+
 
 # :raised_hand_with_fingers_splayed: Identity & Access Management
 #### [Zero Trust - US Gov](https://zerotrust.cyber.gov/)
