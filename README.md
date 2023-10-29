@@ -8,8 +8,11 @@
 * [Cloud Security](https://github.com/trevor-pyle/cybersecurity-resources#%EF%B8%8F-cloud-security)
   + [Providers](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#providers)
   + [Shared Responsibilities](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#shared-responsibilities)
-  + 
+  + [Architecture](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#architecture)
+  + [Cloud Compliance Offerings by Provider](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#cloud-compliance-offerings-by-provider) 
 * [Governance, Risk, and Compliance](https://github.com/trevor-pyle/cybersecurity-resources#--governance-risk-and-compliance)
+  + [National Institute of Standards & Technology (NIST)](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#national-institute-of-standards--technology-nist)
+  + [Additional Frameworks | Standards](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#additional-frameworks--standards) 
 * [Identity & Access Management](https://github.com/trevor-pyle/cybersecurity-resources#raised_hand_with_fingers_splayed-identity--access-management)
 * [Incident Management](https://github.com/trevor-pyle/cybersecurity-resources#rotating_light-incident-management)
 * [Network Security](https://github.com/trevor-pyle/cybersecurity-resources#twisted_rightwards_arrows-network-security)
