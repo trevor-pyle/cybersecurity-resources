@@ -16,12 +16,20 @@
   + [Control Mappings](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#control-mappings)
   + [Supply Chain Management](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#supply-chain-management) 
 * [Identity & Access Management](https://github.com/trevor-pyle/cybersecurity-resources#raised_hand_with_fingers_splayed-identity--access-management)
+  + [Remote Access](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#remote-access) 
 * [Incident Management](https://github.com/trevor-pyle/cybersecurity-resources#rotating_light-incident-management)
+  + [Incident Reporting](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#incident-reporting) 
 * [Network Security](https://github.com/trevor-pyle/cybersecurity-resources#twisted_rightwards_arrows-network-security)
 * [Security Architecture & Engineering](https://github.com/trevor-pyle/cybersecurity-resources#classical_building-security-architecture--engineering)
 * [Professional Development & Continuous Learning](https://github.com/trevor-pyle/cybersecurity-resources#brain-professional-development--continuous-learning)
-
-
+  + [Books](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#books)
+  + [Career Paths](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#career-paths)
+  + [Certifications](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#certifications)
+  + [Newsletters](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#newsletters)
+  + [Podcasts](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#podcasts)
+* [Additional Resources](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#heavy_plus_sign-additional-resources)
+  + [Cheat Sheets](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#cheat-sheets)
+  + [Policy Templates](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#policy-templates)
 
 # :books: Assessment & Testing 
 
