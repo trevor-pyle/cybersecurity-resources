@@ -105,7 +105,7 @@
 #### [StateRAMP](https://stateramp.org/)
 #### [US Food & Drug Administration - Cybersecurity in Medical Devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-medical-devices-quality-system-considerations-and-content-premarket-submissions)
 #### [US Dept of Health & Human Services - HIPAA](https://www.hhs.gov/hipaa/index.html)
-#### [International Organization for Standardization - Publicly Available Standards](https://standards.iso.org/ittf/PubliclyAvailableStandards/index.html)
+#### [International Organization for Standardization (ISO) - Publicly Available Standards](https://standards.iso.org/ittf/PubliclyAvailableStandards/index.html)
 #### [FAIR Institute - FAIR Materiality Assessment Model](https://www.fairinstitute.org/resources/fair-mam)
 #### [CISA Critical Infrastructure Sectors - Includes Some Additional Sector Risk Management Guidelines](https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience/critical-infrastructure-sectors) 
 
