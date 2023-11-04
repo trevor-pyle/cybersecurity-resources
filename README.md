@@ -221,6 +221,8 @@
 #### [European Union Agency for Cybersecurity - ENISA | Publications](https://www.enisa.europa.eu/publications#c3=2013&c3=2023&c3=false&c5=publicationDate&reversed=on&b_start=0)  
 #### [Software & Services Product Reviews](https://www.g2.com/)  
 #### [Freedom of Information Act - Multiple Search Tools](https://www.foia.gov/)
+#### [Health Insurance Portability and Accountability Act Collaborative of Wisconsin - HIPAA COW](https://hipaacow.org/)
+
 
 
 ### Cheat Sheets
