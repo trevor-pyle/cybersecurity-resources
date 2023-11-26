@@ -40,7 +40,9 @@
 #### [NIST 800-84 - Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities](https://www.nist.gov/privacy-framework/nist-sp-800-84)  
 #### [SANS - Securing Web Application Technologies Checklist](https://www.sans.org/cloud-security/securing-web-application-technologies/)  
 ### Vulnerability Management
-#### [Common Vulnerability Scoring System (CVSS)](https://nvd.nist.gov/vuln-metrics/cvss)
+#### [NIST - Common Vulnerability Scoring System (CVSS)](https://nvd.nist.gov/vuln-metrics/cvss)
+#### [FIRST - CVSS](https://www.first.org/cvss/) 
+#### [Common Vulnerabilities and Exposures](https://www.cve.org/)
 #### [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)  
 #### [MITRE Common Weakness Enumeration](https://cwe.mitre.org/)
 
@@ -59,11 +61,11 @@
 #### [GCP](https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate)
 
 ### Architecture
-#### [CSA Enterprise Architecture Reference Guide](https://cloudsecurityalliance.org/artifacts/enterprise-architecture-reference-guide-v2/)
+#### [Cloud Security Alliance - Enterprise Architecture Reference Guide](https://cloudsecurityalliance.org/artifacts/enterprise-architecture-reference-guide-v2/)
 #### [Microsoft Cybersecurity Reference Architectures](https://learn.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra)
 #### [AWS Security Reference Architecture](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html)
 #### [Google Cloud Architecture Framework - Security, Privacy, and Compliance](https://cloud.google.com/architecture/framework/security)  
-#### [Cloud Security Technical Reference Architecture](https://www.cisa.gov/resources-tools/resources/cloud-security-technical-reference-architecture)
+#### [CISA Cloud Security Technical Reference Architecture](https://www.cisa.gov/resources-tools/resources/cloud-security-technical-reference-architecture)
 #### [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/)
 #### [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 #### [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework)
@@ -73,19 +75,18 @@
 #### [AWS](https://aws.amazon.com/compliance/programs)
 #### [GCP](https://cloud.google.com/security/compliance/offerings)  
 #### [Microsoft Service Trust Portal](https://servicetrust.microsoft.com/)
-#### [AWS Artifact](https://aws.amazon.com/artifact/)  
+#### [AWS Artifacts](https://aws.amazon.com/artifact/)  
 
 </details>  
 
 # 📑  Governance, Risk, and Compliance
 ### National Institute of Standards & Technology (NIST)
-#### [800-53 Rev 5 | Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
-#### [800-171 Rev 2 | Protecting Controlled Unclassified Information in nonfederal systems and organizations](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final)  
-#### [800-171a Rev 2 | Assessment procedures for 800-171](https://csrc.nist.gov/publications/detail/sp/800-171a/final)
-#### [NIST Risk Management Framework](https://csrc.nist.gov/projects/risk-management/about-rmf)
-#### [NIST Cybersecurity Framework 1.1](https://www.nist.gov/cyberframework/framework)  
+#### [800-53 Rev 5 | Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
+#### [800-171-172 | Protecting Controlled Unclassified Information](https://csrc.nist.gov/Projects/protecting-controlled-unclassified-information) 
+#### [NIST Risk Management Framework](https://csrc.nist.gov/projects/risk-management)
+#### [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
 #### [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)  
-#### [Cybersecurity and Privacy Reference Tool](https://csrc.nist.gov/Projects/cprt)
+#### [Cybersecurity and Privacy Reference Tool | Reference data from NIST publications without the constraints of PDF files](https://csrc.nist.gov/Projects/cprt)
 #### [NIST Projects](https://csrc.nist.gov/projects)
 #### [NIST Frameworks](https://www.nist.gov/frameworks)
 
@@ -150,7 +151,7 @@
 #### [No More Ransomeware Project](https://www.nomoreransom.org/en/index.html)
 #### [Blueprint for Ransomware Defense](https://securityandtechnology.org/ransomwaretaskforce/blueprint-for-ransomware-defense/)
 #### [CISA Stop Ransomeware Resources](https://www.cisa.gov/stopransomware/resources)
-#### [Open Source Intelligence](https://osintframework.com/)
+#### [Open Source Intelligence Framework](https://osintframework.com/)
 #### [Virus Total](https://www.virustotal.com)
 #### [Shodan](https://www.shodan.io/)
 
@@ -199,7 +200,6 @@
 
 ### Podcasts
 #### [Unsupervised Learning](https://podcasts.apple.com/us/podcast/unsupervised-learning/id1099711235)
-#### [The Virtual CISO Podcast](https://podcasts.apple.com/us/podcast/the-virtual-ciso-podcast/id1498720073)
 #### [CISO Tradecraft](https://www.cisotradecraft.com/episode-list)
 #### [Life of a CISO](https://podcasts.apple.com/us/podcast/life-of-a-ciso-with-dr-eric-cole/id1458386656)
 #### [Bulletproof Cyber](https://podcasts.apple.com/us/podcast/bulletproof-cyber/id1690068665)
@@ -230,6 +230,7 @@
 
 ### Policy Templates
 #### [SANS](https://www.sans.org/information-security-policy/)  
+
 
 
 
