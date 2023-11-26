@@ -3,8 +3,8 @@
 **Credit goes to all the authors, content creators, and contributors**!
 
 # Table Of Contents
-* [Assessment & Testing](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#assessment--testing-1)
-  + [Vulnerability Management](https://github.com/trevor-pyle/cybersecurity-resources#vulnerability-mgmt)    
+* [Assessment & Testing](https://github.com/trevor-pyle/cybersecurity-resources/tree/main#books-assessment--testing)
+  + [Vulnerability Management](https://github.com/trevor-pyle/cybersecurity-resources/tree/main#vulnerability-management)    
 * [Cloud Security](https://github.com/trevor-pyle/cybersecurity-resources#%EF%B8%8F-cloud-security)
   + [Providers](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#providers)
   + [Shared Responsibilities](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#shared-responsibilities)
