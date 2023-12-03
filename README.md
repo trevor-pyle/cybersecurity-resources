@@ -117,7 +117,7 @@
 #### [Adobe Common Controls Framework](https://www.adobe.com/trust/compliance/adobe-ccf.html)
 #### [Equifax Security Controls Framework](https://controlsframework.equifax.com/home)
 #### [Center For Internet Security Critical Security Controls Navigator](https://www.cisecurity.org/controls/cis-controls-navigator)
-#### [MITRE - MITRE ATTACK to NIST 800-53](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/nist-800-53-control-mappings/)
+#### [MITRE - NIST 800-53 Controls To ATT&CK Mappings](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/nist-800-53-control-mappings/)
 #### [SANS - Cybersecurity Regulations and Risk Assessment Requirements](https://www.sans.org/blog/cybersecurity-regulations-risk-assessment-requirements/)
 
 
