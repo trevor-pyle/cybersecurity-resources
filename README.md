@@ -215,21 +215,22 @@
   
 ### :heavy_plus_sign: Additional Resources
 
-#### [Cybersecurity & Infrastructure Security Agency Resources](https://www.cisa.gov/resources-tools/resources)
-#### [Cybersecurity & Infrastructure Security Agency Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools)
+#### [Cybersecurity & Infrastructure Security Agency - Resources](https://www.cisa.gov/resources-tools/resources)
+#### [Cybersecurity & Infrastructure Security Agency - Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools)
 #### [NIST Computer Security Resource Center Project](https://csrc.nist.gov/projects)
 #### [European Union Agency for Cybersecurity - ENISA | Publications](https://www.enisa.europa.eu/publications#c3=2013&c3=2023&c3=false&c5=publicationDate&reversed=on&b_start=0)  
-#### [Software & Services Product Reviews](https://www.g2.com/)  
+#### [Software & Services Product Reviews - G2](https://www.g2.com/)  
 #### [Freedom of Information Act - Multiple Search Tools](https://www.foia.gov/)
 #### [Health Insurance Portability and Accountability Act Collaborative of Wisconsin - HIPAA COW](https://hipaacow.org/)
 
 
 
 ### Cheat Sheets
-#### [SANS](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
+#### [SANS - The Ultimate List of SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
+#### [SANS - Posters & Cheat Sheets](https://www.sans.org/posters/?msc=Cheat%20Sheet%20Blog)
 
 ### Policy Templates
-#### [SANS](https://www.sans.org/information-security-policy/)  
+#### [SANS- Security Policy Templates](https://www.sans.org/information-security-policy/)  
 
 
 
