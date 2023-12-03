@@ -149,7 +149,7 @@
 #### [NIST Computer Security Incident Handling Guide](https://csrc.nist.gov/pubs/sp/800/61/r2/final)
 #### [NIST Ransomware Protection and Response](https://csrc.nist.gov/Projects/ransomware-protection-and-response)
 #### [No More Ransomeware Project](https://www.nomoreransom.org/en/index.html)
-#### [Blueprint for Ransomware Defense](https://securityandtechnology.org/ransomwaretaskforce/blueprint-for-ransomware-defense/)
+#### [Institute for Security and Technology | Blueprint for Ransomware Defense](https://securityandtechnology.org/ransomwaretaskforce/blueprint-for-ransomware-defense/)
 #### [CISA Stop Ransomeware Resources](https://www.cisa.gov/stopransomware/resources)
 #### [Open Source Intelligence Framework](https://osintframework.com/)
 #### [Virus Total](https://www.virustotal.com)
