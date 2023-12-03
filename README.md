@@ -139,9 +139,9 @@
 #### [Federal Zero Trust Strategy](https://zerotrust.cyber.gov/federal-zero-trust-strategy/)  
 #### [Zero Trust Maturity Model](https://zerotrust.cyber.gov/zero-trust-maturity-model/)
 #### [CISA Zero Trust Maturity Model](https://www.cisa.gov/zero-trust-maturity-model)
-#### [Department of Defense (DoD) Zero Trust Reference Architecture](https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v2.0(U)_Sep22.pdf)
-#### [Department of Defense (DoD) Zero Trust Strategy](https://dodcio.defense.gov/Portals/0/Documents/Library/DoD-ZTStrategy.pdf)
-#### [Department of Defense (DoD) Zero Trust Capability Execution Roadmap](https://dodcio.defense.gov/Portals/0/Documents/Library/ZTCapabilitiesActivities.pdf)
+#### [Department of Defense - Zero Trust Reference Architecture](https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v2.0(U)_Sep22.pdf)
+#### [Department of Defense - Zero Trust Strategy](https://dodcio.defense.gov/Portals/0/Documents/Library/DoD-ZTStrategy.pdf)
+#### [Department of Defense - Zero Trust Capability Execution Roadmap](https://dodcio.defense.gov/Portals/0/Documents/Library/ZTCapabilitiesActivities.pdf)
 ### Remote Access 
 #### [Guide to Securing Remote Access Software](https://www.cisa.gov/resources-tools/resources/guide-securing-remote-access-software)
 
@@ -156,10 +156,10 @@
 #### [Shodan](https://www.shodan.io/)
 
 ### Incident Reporting
-#### [DHS Harmonization of Cyber Incident Reporting to the Federal Government - Page 42 Reporting Requirements Inventory](https://www.dhs.gov/publication/harmonization-cyber-incident-reporting-federal-government)
+#### [DHS - Harmonization of Cyber Incident Reporting to the Federal Government | Page 42 Reporting Requirements Inventory](https://www.dhs.gov/publication/harmonization-cyber-incident-reporting-federal-government)
 
 # :twisted_rightwards_arrows: Network Security
-#### [OSI Model](https://en.wikipedia.org/wiki/OSI_model)
+#### [Open Systems Interconnection (OSI) Model](https://en.wikipedia.org/wiki/OSI_model)
 #### [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
 #### [TCP & UDP Ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 #### [Wireshark](https://www.wireshark.org/)
