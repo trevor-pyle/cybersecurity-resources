@@ -165,7 +165,6 @@
 #### [Wireshark](https://www.wireshark.org/)
 
 # :classical_building: Security Architecture & Engineering
-#### [SABSA Enterprise Security Architecture](https://sabsa.org/sabsa-executive-summary/)
 #### [NIST Systems Security Engineering Project](https://csrc.nist.gov/projects/systems-security-engineering-project)
 #### [Threat Modeling - Adam Shostack](https://shostack.org/resources/threat-modeling)
 #### [STRIDE Threat Model](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats)
