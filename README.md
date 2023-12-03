@@ -181,14 +181,14 @@
 
 # :brain: Professional Development & Continuous Learning
 ### Books 
-#### [Cybersecurity Cannons](https://icdt.osu.edu/cybercanon/bookreviews)
+#### [Cybersecurity Cannon](https://icdt.osu.edu/cybercanon/bookreviews)
 
 ### Career Paths
-#### [NIST National Initiative for Cybersecurity Education](https://niccs.cisa.gov/workforce-development/nice-framework)
+#### [Workforce Framework for Cybersecurity (NICE Framework)](https://niccs.cisa.gov/workforce-development/nice-framework)
 
 ### Certifications
-#### [Paul Jerimy](https://pauljerimy.com/security-certification-roadmap)  
-#### [Noah Aronov - Free Courses for Cyber](https://medium.com/@noahsec/free-courses-for-cyber-c2979ad3c9ee)  
+#### [Paul Jerimy - Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap)  
+#### [Noah - Free Courses for Cyber](https://medium.com/@noahsec/free-courses-for-cyber-c2979ad3c9ee)  
 
 ### Newsletters
 #### [Unsupervised Learning - Daniel Miessler](https://danielmiessler.com/)
