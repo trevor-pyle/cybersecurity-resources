@@ -112,7 +112,7 @@
 
 
 ### Control Mappings
-#### [NIST Cybersecurity Framework 1.1](https://www.nist.gov/cyberframework/framework)
+#### [NIST Cybersecurity Framework 1.1 -  Within the Informative References](https://www.nist.gov/cyberframework/framework)
 #### [Secure Control Framework](https://securecontrolsframework.com/scf-download/)
 #### [Adobe Common Controls Framework](https://www.adobe.com/trust/compliance/adobe-ccf.html)
 #### [Equifax Security Controls Framework](https://controlsframework.equifax.com/home)
