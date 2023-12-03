@@ -161,7 +161,7 @@
 # :twisted_rightwards_arrows: Network Security
 #### [Open Systems Interconnection (OSI) Model](https://en.wikipedia.org/wiki/OSI_model)
 #### [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
-#### [TCP & UDP Ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+#### [Transmission Control Protocol (TCP) & User Datagram Protocol (UDP) Ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 #### [Wireshark](https://www.wireshark.org/)
 
 # :classical_building: Security Architecture & Engineering
