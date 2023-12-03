@@ -194,8 +194,8 @@
 #### [Unsupervised Learning - Daniel Miessler](https://danielmiessler.com/)
 #### [CloudSecList - Marco Lancini](https://cloudseclist.com/)
 #### [TLDR Sec - Clint Gibler](https://tldrsec.com/)
-#### [SANS](https://www.sans.org/newsletters/)
-#### [WSJ Cybersecurity](https://www.wsj.com/newsletters)
+#### [SANS - Cyber Security Newsletters](https://www.sans.org/newsletters/)
+#### [Wall Street Journal - Cybersecurity](https://www.wsj.com/newsletters)
 
 ### Podcasts
 #### [Unsupervised Learning](https://podcasts.apple.com/us/podcast/unsupervised-learning/id1099711235)
