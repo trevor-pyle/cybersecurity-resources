@@ -48,7 +48,7 @@
 
 # ☁️ Cloud Security
 ### Providers 
-#### [Microsoft Security documentation](https://learn.microsoft.com/en-us/security/)
+#### [Microsoft Security Documentation](https://learn.microsoft.com/en-us/security/)
 #### [Azure Security Documentation](https://learn.microsoft.com/en-us/azure/security/)
 #### [AWS Security Documentation](https://docs.aws.amazon.com/security/)  
 #### [Google Security Overview](https://cloud.google.com/docs/security/overview/whitepaper)  
