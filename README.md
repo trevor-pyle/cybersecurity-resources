@@ -151,7 +151,7 @@
 #### [No More Ransomeware Project](https://www.nomoreransom.org/en/index.html)
 #### [Institute for Security and Technology | Blueprint for Ransomware Defense](https://securityandtechnology.org/ransomwaretaskforce/blueprint-for-ransomware-defense/)
 #### [CISA Stop Ransomeware Resources](https://www.cisa.gov/stopransomware/resources)
-#### [Open Source Intelligence Framework](https://osintframework.com/)
+#### [Open Source Intelligence (OSINT) Framework](https://osintframework.com/)
 #### [Virus Total](https://www.virustotal.com)
 #### [Shodan](https://www.shodan.io/)
 
