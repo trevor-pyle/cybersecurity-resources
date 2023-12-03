@@ -206,7 +206,6 @@
 #### [The New CISO](https://podcasts.apple.com/us/podcast/the-new-ciso/id1460075361)
 #### [Hacker Valley Studio](https://hackervalley.com/)
 #### [SANS Podcasts - Several others within the list as well](https://www.sans.org/blog/cybersecurity-podcast-roundup/)  
-#### [Cloud Security Podcast](https://podcasts.apple.com/us/podcast/cloud-security-podcast/id1489678590)  
 #### [Resilient Cyber](https://podcasts.apple.com/us/podcast/resilient-cyber/id1555928024)  
 #### [The Cyberlaw Podcast](https://podcasts.apple.com/us/podcast/the-cyberlaw-podcast/id830593115)  
 #### [Cloud Security Podcast Network](https://www.cloudsecuritypodcast.tv/)
