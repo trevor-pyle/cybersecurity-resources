@@ -91,7 +91,7 @@
 #### [NIST Frameworks](https://www.nist.gov/frameworks)
 
 ### Additional Frameworks | Standards
-#### [Payment Card Industry Digital Security Standards (4.0 & 3.2.1)](https://www.pcisecuritystandards.org/document_library/)
+#### [Payment Card Industry Security Standards Council Document Library](https://www.pcisecuritystandards.org/document_library/)
 #### [Center For Internet Security Critical Security Controls](https://www.cisecurity.org/controls/cis-controls-list)
 #### [New York Department of Financial Services – Cybersecurity Requirements for Financial Services Companies](https://www.dfs.ny.gov/industry_guidance/cybersecurity)
 #### [US State Privacy Legislation Tracker](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/)
