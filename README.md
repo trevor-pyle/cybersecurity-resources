@@ -109,7 +109,7 @@
 #### [International Organization for Standardization (ISO) - Publicly Available Standards](https://standards.iso.org/ittf/PubliclyAvailableStandards/index.html)
 #### [FAIR Institute - FAIR Materiality Assessment Model](https://www.fairinstitute.org/resources/fair-mam)
 #### [CISA Critical Infrastructure Sectors - Includes Some Additional Sector Risk Management Guidelines](https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience/critical-infrastructure-sectors) 
-#### [UK National Cyber Security Centre - Risk Management Guidance] (https://www.ncsc.gov.uk/collection/risk-management)
+#### [UK National Cyber Security Centre - Risk Management Guidance](https://www.ncsc.gov.uk/collection/risk-management)
 
 
 ### Control Mappings
