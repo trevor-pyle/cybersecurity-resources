@@ -109,6 +109,7 @@
 #### [International Organization for Standardization (ISO) - Publicly Available Standards](https://standards.iso.org/ittf/PubliclyAvailableStandards/index.html)
 #### [FAIR Institute - FAIR Materiality Assessment Model](https://www.fairinstitute.org/resources/fair-mam)
 #### [CISA Critical Infrastructure Sectors - Includes Some Additional Sector Risk Management Guidelines](https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience/critical-infrastructure-sectors) 
+#### [UK National Cyber Security Centre - Risk Management Guidance] (https://www.ncsc.gov.uk/collection/risk-management)
 
 
 ### Control Mappings
@@ -166,6 +167,7 @@
 
 # :classical_building: Security Architecture & Engineering
 #### [NIST Systems Security Engineering Project](https://csrc.nist.gov/projects/systems-security-engineering-project)
+#### [US Centers for Medicare & Medicaid Services - Threat Modeling Handbook](https://security.cms.gov/policy-guidance/threat-modeling-handbook)
 #### [Threat Modeling - Adam Shostack](https://shostack.org/resources/threat-modeling)
 #### [STRIDE Threat Model](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats)
 #### [DREAD Threat Modeling](https://threat-modeling.com/dread-threat-modeling/)  
@@ -177,6 +179,7 @@
 #### [Security Technical Implementation Guide Viewer](https://www.stigviewer.com/)
 #### [CISA Secure By Design](https://www.cisa.gov/securebydesign)
 #### [Cyber Kill Chain - Lockheed Martin](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)  
+
 
 
 # :brain: Professional Development & Continuous Learning
