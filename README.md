@@ -45,6 +45,7 @@
 #### [Common Vulnerabilities and Exposures](https://www.cve.org/)
 #### [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)  
 #### [MITRE Common Weakness Enumeration](https://cwe.mitre.org/)
+#### [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) 
 
 # ☁️ Cloud Security
 ### Providers 
@@ -69,6 +70,8 @@
 #### [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/)
 #### [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 #### [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework)
+#### [CISA Secure Cloud Business Applications (SCuBA) Project](https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project)
+
 
 ### Cloud Compliance Offerings by Provider 
 #### [Azure](https://learn.microsoft.com/en-us/compliance/regulatory/offering-home)
@@ -155,6 +158,8 @@
 #### [Open Source Intelligence (OSINT) Framework](https://osintframework.com/)
 #### [Virus Total](https://www.virustotal.com)
 #### [Shodan](https://www.shodan.io/)
+#### [Microsoft Incident Response Guide | Best practices for security teams and leaders | Navigating the Maze of Incident Response Document](https://www.microsoft.com/en-us/security/blog/2023/12/11/new-microsoft-incident-response-team-guide-shares-best-practices-for-security-teams-and-leaders/)
+
 
 ### Incident Reporting
 #### [DHS - Harmonization of Cyber Incident Reporting to the Federal Government | Page 42 Reporting Requirements Inventory](https://www.dhs.gov/publication/harmonization-cyber-incident-reporting-federal-government)
