@@ -39,13 +39,14 @@
 #### [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/index.html)
 #### [NIST 800-84 - Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities](https://www.nist.gov/privacy-framework/nist-sp-800-84)  
 #### [SANS - Securing Web Application Technologies [SWAT] Checklist](https://www.sans.org/cloud-security/securing-web-application-technologies/)  
+#### [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) 
+
 ### Vulnerability Management
 #### [NIST - Common Vulnerability Scoring System (CVSS)](https://nvd.nist.gov/vuln-metrics/cvss)
 #### [FIRST - CVSS](https://www.first.org/cvss/) 
 #### [Common Vulnerabilities and Exposures](https://www.cve.org/)
 #### [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)  
 #### [MITRE Common Weakness Enumeration](https://cwe.mitre.org/)
-#### [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) 
 
 # ☁️ Cloud Security
 ### Providers 
