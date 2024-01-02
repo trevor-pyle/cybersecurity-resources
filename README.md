@@ -170,6 +170,8 @@
 #### [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
 #### [Transmission Control Protocol (TCP) & User Datagram Protocol (UDP) Ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 #### [Wireshark](https://www.wireshark.org/)
+#### [ENISA Threat Landscape for Denial-of-Service (DoS) Attacks](https://www.enisa.europa.eu/publications/enisa-threat-landscape-for-dos-attacks)
+
 
 # :classical_building: Security Architecture & Engineering
 #### [NIST Systems Security Engineering Project](https://csrc.nist.gov/projects/systems-security-engineering-project)
@@ -185,7 +187,7 @@
 #### [Security Technical Implementation Guide Viewer](https://www.stigviewer.com/)
 #### [CISA Secure By Design](https://www.cisa.gov/securebydesign)
 #### [Cyber Kill Chain - Lockheed Martin](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)  
-
+#### [ENISA Threat Landscape Methodology](https://www.enisa.europa.eu/publications/enisa-threat-landscape-methodology)
 
 
 # :brain: Professional Development & Continuous Learning
@@ -205,6 +207,8 @@
 #### [TLDR Sec - Clint Gibler](https://tldrsec.com/)
 #### [SANS - Cyber Security Newsletters](https://www.sans.org/newsletters/)
 #### [Wall Street Journal - Cybersecurity](https://www.wsj.com/newsletters)
+#### [Detection Engineering Weekly](https://www.detectionengineering.net/)
+#### [Venture in Security](https://ventureinsecurity.net/)
 
 ### Podcasts
 #### [Unsupervised Learning](https://podcasts.apple.com/us/podcast/unsupervised-learning/id1099711235)
