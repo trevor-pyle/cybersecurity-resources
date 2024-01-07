@@ -72,6 +72,8 @@
 #### [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 #### [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework)
 #### [CISA Secure Cloud Business Applications (SCuBA) Project](https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project)
+#### [DoD Cloud Computing Security](https://public.cyber.mil/dccs/)
+
 
 
 ### Cloud Compliance Offerings by Provider 
@@ -114,6 +116,7 @@
 #### [FAIR Institute - FAIR Materiality Assessment Model](https://www.fairinstitute.org/resources/fair-mam)
 #### [CISA Critical Infrastructure Sectors - Includes Some Additional Sector Risk Management Guidelines](https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience/critical-infrastructure-sectors) 
 #### [UK National Cyber Security Centre - Risk Management Guidance](https://www.ncsc.gov.uk/collection/risk-management)
+#### [DoD CIO Library](https://dodcio.defense.gov/library/)
 
 
 ### Control Mappings
@@ -164,6 +167,9 @@
 
 ### Incident Reporting
 #### [DHS - Harmonization of Cyber Incident Reporting to the Federal Government | Page 42 Reporting Requirements Inventory](https://www.dhs.gov/publication/harmonization-cyber-incident-reporting-federal-government)
+#### [National Conference of State Legislatures | US State Security Breach Legislation](https://www.ncsl.org/technology-and-communication/2022-security-breach-legislation#:~:text=All%2050%20states%2C%20the%20District,their%20personal%20information%20is%20breached.)
+
+
 
 # :twisted_rightwards_arrows: Network Security
 #### [Open Systems Interconnection (OSI) Model](https://en.wikipedia.org/wiki/OSI_model)
