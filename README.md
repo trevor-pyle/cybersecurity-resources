@@ -29,8 +29,8 @@
   + [Podcasts](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#podcasts)
 * [Additional Resources](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#heavy_plus_sign-additional-resources)
   + [Cheat Sheets](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#cheat-sheets)
-  + [Policy Templates](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#policy-templates)
-
+  + [Policy References](https://github.com/trevor-pyle/cybersecurity-resources/blob/main/README.md#policy-templates)
+    
 # :books: Assessment & Testing 
 
 #### [Kali Linux](https://www.kali.org/)  
@@ -40,6 +40,7 @@
 #### [NIST 800-84 - Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities](https://www.nist.gov/privacy-framework/nist-sp-800-84)  
 #### [SANS - Securing Web Application Technologies [SWAT] Checklist](https://www.sans.org/cloud-security/securing-web-application-technologies/)  
 #### [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) 
+#### [Global Resilience Federation | Operational Resilience Framework](https://www.grf.org/orf)
 
 ### Vulnerability Management
 #### [NIST - Common Vulnerability Scoring System (CVSS)](https://nvd.nist.gov/vuln-metrics/cvss)
@@ -163,12 +164,12 @@
 #### [Virus Total](https://www.virustotal.com)
 #### [Shodan](https://www.shodan.io/)
 #### [Microsoft Incident Response Guide | Best practices for security teams and leaders | Navigating the Maze of Incident Response Document](https://www.microsoft.com/en-us/security/blog/2023/12/11/new-microsoft-incident-response-team-guide-shares-best-practices-for-security-teams-and-leaders/)
+#### [MITRE Sensor Mappings to ATT@CK](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/sensor-mappings-to-attack/#:~:text=Sensor%20Mappings%20to%20ATT%26CK%20gives,incidents%20occurring%20in%20their%20environment.)
 
 
 ### Incident Reporting
 #### [DHS - Harmonization of Cyber Incident Reporting to the Federal Government | Page 42 Reporting Requirements Inventory](https://www.dhs.gov/publication/harmonization-cyber-incident-reporting-federal-government)
 #### [National Conference of State Legislatures | US State Security Breach Legislation](https://www.ncsl.org/technology-and-communication/2022-security-breach-legislation#:~:text=All%2050%20states%2C%20the%20District,their%20personal%20information%20is%20breached.)
-
 
 
 # :twisted_rightwards_arrows: Network Security
@@ -243,13 +244,14 @@
 #### [Health Insurance Portability and Accountability Act Collaborative of Wisconsin - HIPAA COW](https://hipaacow.org/)
 
 
-
 ### Cheat Sheets
 #### [SANS - The Ultimate List of SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
 #### [SANS - Posters & Cheat Sheets](https://www.sans.org/posters/?msc=Cheat%20Sheet%20Blog)
 
-### Policy Templates
-#### [SANS- Security Policy Templates](https://www.sans.org/information-security-policy/)  
+### Policy References
+#### [SANS - Security Policy Templates](https://www.sans.org/information-security-policy/)  
+#### [North Carolina Statewide Information Security Policies | Aligned With NIST 800-53](https://it.nc.gov/programs/cybersecurity-risk-management/esrmo-initiatives/statewide-information-security-policies)
+
 
 
 
