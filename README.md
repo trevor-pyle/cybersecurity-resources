@@ -174,6 +174,7 @@
 #### [National Conference of State Legislatures | US State Security Breach Legislation](https://www.ncsl.org/technology-and-communication/2022-security-breach-legislation#:~:text=All%2050%20states%2C%20the%20District,their%20personal%20information%20is%20breached.)
 
 
+
 # :twisted_rightwards_arrows: Network Security
 #### [Open Systems Interconnection (OSI) Model](https://en.wikipedia.org/wiki/OSI_model)
 #### [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
@@ -244,11 +245,13 @@
 #### [Software & Services Product Reviews - G2](https://www.g2.com/)  
 #### [Freedom of Information Act - Multiple Search Tools](https://www.foia.gov/)
 #### [Health Insurance Portability and Accountability Act Collaborative of Wisconsin - HIPAA COW](https://hipaacow.org/)
-
+#### [CISO MindMap | Rafeeq Rehman](https://rafeeqrehman.com/2023/03/25/ciso-mindmap-2023-what-do-infosec-professionals-really-do/)
+#### [Boston Consulting Group | Strategy Frameworks](https://media-publications.bcg.com/HTML5Interactives/strategy_frameworks/History_of_Strategy_2015.html)
 
 ### Cheat Sheets
 #### [SANS - The Ultimate List of SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
 #### [SANS - Posters & Cheat Sheets](https://www.sans.org/posters/?msc=Cheat%20Sheet%20Blog)
+#### [Google Cloud Incident Response Cheat Sheet](https://medium.com/google-cloud/google-cloud-incident-response-cheat-sheet-dfde9054ac16)
 
 ### Policy References
 #### [SANS - Security Policy Templates](https://www.sans.org/information-security-policy/)  
