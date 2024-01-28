@@ -76,8 +76,7 @@
 #### [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework)
 #### [CISA Secure Cloud Business Applications (SCuBA) Project](https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project)
 #### [DoD Cloud Computing Security](https://public.cyber.mil/dccs/)
-
-
+#### [Wiz | Cloud Threat Landscape](https://threats.wiz.io/)
 
 ### Cloud Compliance Offerings by Provider 
 #### [Azure](https://learn.microsoft.com/en-us/compliance/regulatory/offering-home)
@@ -98,6 +97,8 @@
 #### [Cybersecurity and Privacy Reference Tool | Reference data from NIST publications without the constraints of PDF files](https://csrc.nist.gov/Projects/cprt)
 #### [NIST Projects](https://csrc.nist.gov/projects)
 #### [NIST Frameworks](https://www.nist.gov/frameworks)
+#### [NIST Trustworthy & Responsible Artificial Intelligence Resource Center](https://airc.nist.gov/home)
+
 
 ### Additional Frameworks | Standards
 #### [Payment Card Industry Security Standards Council Document Library](https://www.pcisecuritystandards.org/document_library/)
@@ -121,7 +122,6 @@
 #### [UK National Cyber Security Centre - Risk Management Guidance](https://www.ncsc.gov.uk/collection/risk-management)
 #### [DoD CIO Library](https://dodcio.defense.gov/library/)
 
-
 ### Control Mappings
 #### [NIST Cybersecurity Framework 1.1 -  Within the Informative References](https://www.nist.gov/cyberframework/framework)
 #### [Secure Control Framework](https://securecontrolsframework.com/scf-download/)
@@ -130,7 +130,7 @@
 #### [Center For Internet Security Critical Security Controls Navigator](https://www.cisecurity.org/controls/cis-controls-navigator)
 #### [MITRE - NIST 800-53 Controls To ATT&CK Mappings](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/nist-800-53-control-mappings/)
 #### [SANS - Cybersecurity Regulations and Risk Assessment Requirements](https://www.sans.org/blog/cybersecurity-regulations-risk-assessment-requirements/)
-
+#### [NIST AI RMF To other Guidelines, Frameworks, Standards and Regulations](https://airc.nist.gov/AI_RMF_Knowledge_Base/Crosswalks)
 
 ### Supply Chain Management
 #### [NIST Software Supply Chain Security Guidance](https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity/software-supply-chain-security-guidance)
@@ -140,7 +140,7 @@
 #### [Compliance Forge Prioritized C-SCRM Implementation Plan](https://content.complianceforge.com/graphics/example-cybersecurity-scrm-prioritized-implementation-plan.pdf)
 #### [European Union Agency for Cybersecurity - Good Practices for Supply Chain Cybersecurity](https://www.enisa.europa.eu/publications/good-practices-for-supply-chain-cybersecurity)
 #### [CISA Software Bill of Materials (SBOM)](https://www.cisa.gov/sbom)
-
+#### [Enduring Security Framework - Securing the Software Supply Chain: Recommended Practices for Managing Open Source Software and Software Bill of Materials](https://media.defense.gov/2023/Dec/11/2003355557/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN%20RECOMMENDED%20PRACTICES%20FOR%20MANAGING%20OPEN%20SOURCE%20SOFTWARE%20AND%20SOFTWARE%20BILL%20OF%20MATERIALS.PDF)
 
 # :raised_hand_with_fingers_splayed: Identity & Access Management
 #### [Zero Trust - US Gov](https://zerotrust.cyber.gov/)
@@ -168,12 +168,9 @@
 #### [Microsoft Incident Response Guide | Best practices for security teams and leaders | Navigating the Maze of Incident Response Document](https://www.microsoft.com/en-us/security/blog/2023/12/11/new-microsoft-incident-response-team-guide-shares-best-practices-for-security-teams-and-leaders/)
 #### [MITRE Sensor Mappings to ATT@CK](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/sensor-mappings-to-attack/#:~:text=Sensor%20Mappings%20to%20ATT%26CK%20gives,incidents%20occurring%20in%20their%20environment.)
 
-
 ### Incident Reporting
 #### [DHS - Harmonization of Cyber Incident Reporting to the Federal Government | Page 42 Reporting Requirements Inventory](https://www.dhs.gov/publication/harmonization-cyber-incident-reporting-federal-government)
 #### [National Conference of State Legislatures | US State Security Breach Legislation](https://www.ncsl.org/technology-and-communication/2022-security-breach-legislation#:~:text=All%2050%20states%2C%20the%20District,their%20personal%20information%20is%20breached.)
-
-
 
 # :twisted_rightwards_arrows: Network Security
 #### [Open Systems Interconnection (OSI) Model](https://en.wikipedia.org/wiki/OSI_model)
@@ -181,7 +178,6 @@
 #### [Transmission Control Protocol (TCP) & User Datagram Protocol (UDP) Ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 #### [Wireshark](https://www.wireshark.org/)
 #### [ENISA Threat Landscape for Denial-of-Service (DoS) Attacks](https://www.enisa.europa.eu/publications/enisa-threat-landscape-for-dos-attacks)
-
 
 # :classical_building: Security Architecture & Engineering
 #### [NIST Systems Security Engineering Project](https://csrc.nist.gov/projects/systems-security-engineering-project)
@@ -198,7 +194,6 @@
 #### [CISA Secure By Design](https://www.cisa.gov/securebydesign)
 #### [Cyber Kill Chain - Lockheed Martin](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)  
 #### [ENISA Threat Landscape Methodology](https://www.enisa.europa.eu/publications/enisa-threat-landscape-methodology)
-
 
 # :brain: Professional Development & Continuous Learning
 ### Books 
@@ -235,7 +230,6 @@
 #### [Down the Security Rabbithole Podcast](https://podcasts.apple.com/us/podcast/down-the-security-rabbithole-podcast-dtsr/id466659176)
 #### [The Cloudcast](https://www.thecloudcast.net/)
 
-  
 ### :heavy_plus_sign: Additional Resources
 
 #### [Cybersecurity & Infrastructure Security Agency - Resources](https://www.cisa.gov/resources-tools/resources)
@@ -247,6 +241,7 @@
 #### [Health Insurance Portability and Accountability Act Collaborative of Wisconsin - HIPAA COW](https://hipaacow.org/)
 #### [CISO MindMap | Rafeeq Rehman](https://rafeeqrehman.com/2023/03/25/ciso-mindmap-2023-what-do-infosec-professionals-really-do/)
 #### [Boston Consulting Group | Strategy Frameworks](https://media-publications.bcg.com/HTML5Interactives/strategy_frameworks/History_of_Strategy_2015.html)
+#### [Microsoft Chief Information Security Officer (CISO) Workshop Training](https://learn.microsoft.com/en-us/security/ciso-workshop/the-ciso-workshop)
 
 ### Cheat Sheets
 #### [SANS - The Ultimate List of SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
