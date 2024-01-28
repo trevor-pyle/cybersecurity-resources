@@ -130,7 +130,7 @@
 #### [Center For Internet Security Critical Security Controls Navigator](https://www.cisecurity.org/controls/cis-controls-navigator)
 #### [MITRE - NIST 800-53 Controls To ATT&CK Mappings](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/nist-800-53-control-mappings/)
 #### [SANS - Cybersecurity Regulations and Risk Assessment Requirements](https://www.sans.org/blog/cybersecurity-regulations-risk-assessment-requirements/)
-#### [NIST AI RMF To other Guidelines, Frameworks, Standards and Regulations](https://airc.nist.gov/AI_RMF_Knowledge_Base/Crosswalks)
+#### [NIST AI RMF to other Guidelines, Frameworks, Standards and Regulations](https://airc.nist.gov/AI_RMF_Knowledge_Base/Crosswalks)
 
 ### Supply Chain Management
 #### [NIST Software Supply Chain Security Guidance](https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity/software-supply-chain-security-guidance)
