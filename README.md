@@ -153,6 +153,7 @@
 #### [Department of Defense - Zero Trust Reference Architecture](https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v2.0(U)_Sep22.pdf)
 #### [Department of Defense - Zero Trust Strategy](https://dodcio.defense.gov/Portals/0/Documents/Library/DoD-ZTStrategy.pdf)
 #### [Department of Defense - Zero Trust Capability Execution Roadmap](https://dodcio.defense.gov/Portals/0/Documents/Library/ZTCapabilitiesActivities.pdf)
+#### [DHS Zero Trust Implementation Strategy](https://www.dhs.gov/publication/zero-trust-implementation-strategy)
 ### Remote Access 
 #### [Guide to Securing Remote Access Software](https://www.cisa.gov/resources-tools/resources/guide-securing-remote-access-software)
 
@@ -194,6 +195,7 @@
 #### [CISA Secure By Design](https://www.cisa.gov/securebydesign)
 #### [Cyber Kill Chain - Lockheed Martin](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)  
 #### [ENISA Threat Landscape Methodology](https://www.enisa.europa.eu/publications/enisa-threat-landscape-methodology)
+#### [Google Site Reliability Engineering](https://sre.google/)
 
 # :brain: Professional Development & Continuous Learning
 ### Books 
