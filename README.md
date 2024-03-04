@@ -41,7 +41,7 @@
 #### [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/index.html)
 #### [NIST 800-84 - Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities](https://www.nist.gov/privacy-framework/nist-sp-800-84)  
 #### [SANS - Securing Web Application Technologies [SWAT] Checklist](https://www.sans.org/cloud-security/securing-web-application-technologies/)  
-#### [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) 
+#### [OWASP AI Exchange](https://owaspai.org/) 
 #### [Global Resilience Federation | Operational Resilience Framework](https://www.grf.org/orf)
 
 ### Vulnerability Management
