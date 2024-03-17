@@ -43,6 +43,8 @@
 #### [SANS - Securing Web Application Technologies [SWAT] Checklist](https://www.sans.org/cloud-security/securing-web-application-technologies/)  
 #### [OWASP AI Exchange](https://owaspai.org/) 
 #### [Global Resilience Federation | Operational Resilience Framework](https://www.grf.org/orf)
+#### [CISA Tabletop Exercise Packages](https://www.cisa.gov/resources-tools/services/cisa-tabletop-exercise-packages)
+
 
 ### Vulnerability Management
 #### [NIST - Common Vulnerability Scoring System (CVSS)](https://nvd.nist.gov/vuln-metrics/cvss)
@@ -50,6 +52,10 @@
 #### [Common Vulnerabilities and Exposures](https://www.cve.org/)
 #### [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)  
 #### [MITRE Common Weakness Enumeration](https://cwe.mitre.org/)
+#### [CVE Details - Security Scorecard](https://www.cvedetails.com/)
+#### [VulDB - pyxyp inc](https://vuldb.com/)
+#### [Exploit Database - OffSec](https://www.exploit-db.com/)
+
 
 # ☁️ Cloud Security
 ### Providers 
@@ -77,6 +83,9 @@
 #### [CISA Secure Cloud Business Applications (SCuBA) Project](https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project)
 #### [DoD Cloud Computing Security](https://public.cyber.mil/dccs/)
 #### [Wiz | Cloud Threat Landscape](https://threats.wiz.io/)
+#### [NSA | Top Ten Cloud Security Mitigation Strategies](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3699169/nsa-releases-top-ten-cloud-security-mitigation-strategies/)
+#### [Cloud Security Maturity Model v2 | IANS, Securosis, Cloud Security Alliance](https://www.iansresearch.com/resources/cloud-security-maturity-model)
+
 
 ### Cloud Compliance Offerings by Provider 
 #### [Azure](https://learn.microsoft.com/en-us/compliance/regulatory/offering-home)
@@ -195,6 +204,7 @@
 #### [Cyber Kill Chain - Lockheed Martin](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)  
 #### [ENISA Threat Landscape Methodology](https://www.enisa.europa.eu/publications/enisa-threat-landscape-methodology)
 #### [Google Site Reliability Engineering](https://sre.google/)
+#### [Assessing a Detection Engineering Program for Maturity | Harrison Pomeroy](https://medium.com/@harrisonpomeroy/assessing-a-detection-engineering-program-for-maturity-b896955bba66)
 
 # :brain: Professional Development & Continuous Learning
 ### Books 
