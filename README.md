@@ -253,6 +253,7 @@
 #### [CISO MindMap | Rafeeq Rehman](https://rafeeqrehman.com/2023/03/25/ciso-mindmap-2023-what-do-infosec-professionals-really-do/)
 #### [Boston Consulting Group | Strategy Frameworks](https://media-publications.bcg.com/HTML5Interactives/strategy_frameworks/History_of_Strategy_2015.html)
 #### [Microsoft Chief Information Security Officer (CISO) Workshop Training](https://learn.microsoft.com/en-us/security/ciso-workshop/the-ciso-workshop)
+#### [CloudSecDocs | Marco Lancini](https://cloudsecdocs.com/)
 
 ### Cheat Sheets
 #### [SANS - The Ultimate List of SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
