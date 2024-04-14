@@ -39,8 +39,9 @@
 #### [Qualys Free Services](https://www.qualys.com/free-services/)  
 #### [Open Worldwide Application Security Project (OWASP)](https://owasp.org/)  
 #### [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/index.html)
+#### [NIST Secure Software Development Framework](https://csrc.nist.gov/projects/ssdf)
 #### [NIST 800-84 - Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities](https://www.nist.gov/privacy-framework/nist-sp-800-84)  
-#### [SANS - Securing Web Application Technologies [SWAT] Checklist](https://www.sans.org/cloud-security/securing-web-application-technologies/)  
+#### [SANS - Securing Web Application Technologies Checklist](https://www.sans.org/cloud-security/securing-web-application-technologies/)  
 #### [OWASP AI Exchange](https://owaspai.org/) 
 #### [Global Resilience Federation | Operational Resilience Framework](https://www.grf.org/orf)
 #### [CISA Tabletop Exercise Packages](https://www.cisa.gov/resources-tools/services/cisa-tabletop-exercise-packages)
@@ -133,6 +134,7 @@
 
 ### Control Mappings
 #### [Secure Control Framework](https://securecontrolsframework.com/scf-download/)
+#### [NIST National Online Informative References Program](https://csrc.nist.gov/projects/olir)
 #### [Adobe Common Controls Framework](https://www.adobe.com/trust/compliance/adobe-ccf.html)
 #### [Equifax Security Controls Framework](https://controlsframework.equifax.com/home)
 #### [Center For Internet Security Critical Security Controls Navigator](https://www.cisecurity.org/controls/cis-controls-navigator)
@@ -162,6 +164,8 @@
 #### [Department of Defense - Zero Trust Strategy](https://dodcio.defense.gov/Portals/0/Documents/Library/DoD-ZTStrategy.pdf)
 #### [Department of Defense - Zero Trust Capability Execution Roadmap](https://dodcio.defense.gov/Portals/0/Documents/Library/ZTCapabilitiesActivities.pdf)
 #### [DHS Zero Trust Implementation Strategy](https://www.dhs.gov/publication/zero-trust-implementation-strategy)
+#### [NSA - Advancing Zero Trust Maturity Throughout the Data Pillar](https://media.defense.gov/2024/Apr/09/2003434442/-1/-1/0/CSI_DATA_PILLAR_ZT.PDF)
+
 ### Remote Access 
 #### [Guide to Securing Remote Access Software](https://www.cisa.gov/resources-tools/resources/guide-securing-remote-access-software)
 
@@ -245,6 +249,7 @@
 
 #### [Cybersecurity & Infrastructure Security Agency - Resources](https://www.cisa.gov/resources-tools/resources)
 #### [Cybersecurity & Infrastructure Security Agency - Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools)
+#### [Cybersecurity & Infrastructure Security Agency - High-Risk Communities](https://www.cisa.gov/audiences/high-risk-communities)
 #### [NIST Computer Security Resource Center Project](https://csrc.nist.gov/projects)
 #### [European Union Agency for Cybersecurity - ENISA | Publications](https://www.enisa.europa.eu/publications#c3=2013&c3=2023&c3=false&c5=publicationDate&reversed=on&b_start=0)  
 #### [Software & Services Product Reviews - G2](https://www.g2.com/)  
