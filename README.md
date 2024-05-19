@@ -201,6 +201,7 @@
 #### [MITRE ATTACK Enterprise](https://attack.mitre.org/matrices/enterprise/)
 #### [MITRE ATTACK Cloud](https://attack.mitre.org/matrices/enterprise/cloud/)
 #### [MITRE ATTACK Network](https://attack.mitre.org/matrices/enterprise/network/)
+#### [MITRE EMB3D Threat Model](https://emb3d.mitre.org/)
 #### [NIST Cryptographic Module Validation Program](https://csrc.nist.gov/projects/cryptographic-module-validation-program)
 #### [Center For Internet Security Hardened Images](https://www.cisecurity.org/cis-hardened-images)
 #### [Security Technical Implementation Guide Viewer](https://www.stigviewer.com/)
@@ -259,6 +260,7 @@
 #### [Boston Consulting Group | Strategy Frameworks](https://media-publications.bcg.com/HTML5Interactives/strategy_frameworks/History_of_Strategy_2015.html)
 #### [Microsoft Chief Information Security Officer (CISO) Workshop Training](https://learn.microsoft.com/en-us/security/ciso-workshop/the-ciso-workshop)
 #### [CloudSecDocs | Marco Lancini](https://cloudsecdocs.com/)
+#### [UK National Cyber Security Centre - Cyber Security Toolkit for Boards](https://www.ncsc.gov.uk/collection/board-toolkit)
 
 ### Cheat Sheets
 #### [SANS - The Ultimate List of SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
