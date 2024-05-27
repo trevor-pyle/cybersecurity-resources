@@ -202,6 +202,7 @@
 #### [MITRE ATTACK Cloud](https://attack.mitre.org/matrices/enterprise/cloud/)
 #### [MITRE ATTACK Network](https://attack.mitre.org/matrices/enterprise/network/)
 #### [MITRE EMB3D Threat Model](https://emb3d.mitre.org/)
+#### [The Universal Cloud Threat Model](https://securosis.com/research/papers/the-universal-cloud-threat-model-for-cloud-native-security/)
 #### [NIST Cryptographic Module Validation Program](https://csrc.nist.gov/projects/cryptographic-module-validation-program)
 #### [Center For Internet Security Hardened Images](https://www.cisecurity.org/cis-hardened-images)
 #### [Security Technical Implementation Guide Viewer](https://www.stigviewer.com/)
@@ -230,6 +231,7 @@
 #### [Wall Street Journal - Cybersecurity](https://www.wsj.com/newsletters)
 #### [Detection Engineering Weekly](https://www.detectionengineering.net/)
 #### [Venture in Security](https://ventureinsecurity.net/)
+#### [Return on Security](https://www.returnonsecurity.com/)
 
 ### Podcasts
 #### [Unsupervised Learning](https://podcasts.apple.com/us/podcast/unsupervised-learning/id1099711235)
