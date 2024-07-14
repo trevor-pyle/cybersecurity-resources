@@ -113,6 +113,7 @@
 ### Additional Frameworks | Standards
 #### [Payment Card Industry Security Standards Council Document Library](https://www.pcisecuritystandards.org/document_library/)
 #### [Center For Internet Security Critical Security Controls](https://www.cisecurity.org/controls/cis-controls-list)
+#### [Center For Internet Security Control Controls Assessment Specification](https://controls-assessment-specification.readthedocs.io/en/stable/about/cas.html)
 #### [New York Department of Financial Services – Cybersecurity Requirements for Financial Services Companies](https://www.dfs.ny.gov/industry_guidance/cybersecurity)
 #### [US State Privacy Legislation Tracker](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/)
 #### [Cybersecurity Maturity Model Certification (CMMC)](https://dodcio.defense.gov/CMMC/)
@@ -131,6 +132,7 @@
 #### [CISA Critical Infrastructure Sectors - Includes Some Additional Sector Risk Management Guidelines](https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience/critical-infrastructure-sectors) 
 #### [UK National Cyber Security Centre - Risk Management Guidance](https://www.ncsc.gov.uk/collection/risk-management)
 #### [DoD CIO Library](https://dodcio.defense.gov/library/)
+#### [Center For Internet Security Reasonable Cybersecurity Guide](https://www.cisecurity.org/insights/white-papers/reasonable-cybersecurity-guide)
 
 ### Control Mappings
 #### [Secure Control Framework](https://securecontrolsframework.com/scf-download/)
@@ -178,6 +180,7 @@
 #### [Open Source Intelligence (OSINT) Framework](https://osintframework.com/)
 #### [Virus Total](https://www.virustotal.com)
 #### [Shodan](https://www.shodan.io/)
+#### [Web Check](https://web-check.xyz/)
 #### [Microsoft Incident Response Guide | Best practices for security teams and leaders | Navigating the Maze of Incident Response Document](https://www.microsoft.com/en-us/security/blog/2023/12/11/new-microsoft-incident-response-team-guide-shares-best-practices-for-security-teams-and-leaders/)
 #### [MITRE Sensor Mappings to ATT@CK](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/sensor-mappings-to-attack/#:~:text=Sensor%20Mappings%20to%20ATT%26CK%20gives,incidents%20occurring%20in%20their%20environment.)
 
@@ -202,6 +205,7 @@
 #### [MITRE ATTACK Cloud](https://attack.mitre.org/matrices/enterprise/cloud/)
 #### [MITRE ATTACK Network](https://attack.mitre.org/matrices/enterprise/network/)
 #### [MITRE EMB3D Threat Model](https://emb3d.mitre.org/)
+#### [MITRE ATLAS](https://atlas.mitre.org/)
 #### [The Universal Cloud Threat Model](https://securosis.com/research/papers/the-universal-cloud-threat-model-for-cloud-native-security/)
 #### [NIST Cryptographic Module Validation Program](https://csrc.nist.gov/projects/cryptographic-module-validation-program)
 #### [Center For Internet Security Hardened Images](https://www.cisecurity.org/cis-hardened-images)
@@ -247,6 +251,9 @@
 #### [Cloud Security Podcast Network](https://www.cloudsecuritypodcast.tv/)
 #### [Down the Security Rabbithole Podcast](https://podcasts.apple.com/us/podcast/down-the-security-rabbithole-podcast-dtsr/id466659176)
 #### [The Cloudcast](https://www.thecloudcast.net/)
+#### [Software Defined Talk](https://www.softwaredefinedtalk.com/)
+#### [CISO Stories Podcast](https://www.scmagazine.com/podcast-show/the-ciso-stories-podcast)
+
 
 ### :heavy_plus_sign: Additional Resources
 
