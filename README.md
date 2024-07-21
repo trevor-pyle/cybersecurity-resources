@@ -133,6 +133,7 @@
 #### [UK National Cyber Security Centre - Risk Management Guidance](https://www.ncsc.gov.uk/collection/risk-management)
 #### [DoD CIO Library](https://dodcio.defense.gov/library/)
 #### [Center For Internet Security Reasonable Cybersecurity Guide](https://www.cisecurity.org/insights/white-papers/reasonable-cybersecurity-guide)
+#### [Cybersecurity 10-K Tracker | Board Cybersecurity](https://www.board-cybersecurity.com/annual-reports/tracker/)
 
 ### Control Mappings
 #### [Secure Control Framework](https://securecontrolsframework.com/scf-download/)
@@ -183,6 +184,8 @@
 #### [Web Check](https://web-check.xyz/)
 #### [Microsoft Incident Response Guide | Best practices for security teams and leaders | Navigating the Maze of Incident Response Document](https://www.microsoft.com/en-us/security/blog/2023/12/11/new-microsoft-incident-response-team-guide-shares-best-practices-for-security-teams-and-leaders/)
 #### [MITRE Sensor Mappings to ATT@CK](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/sensor-mappings-to-attack/#:~:text=Sensor%20Mappings%20to%20ATT%26CK%20gives,incidents%20occurring%20in%20their%20environment.)
+#### [Cybersecurity Incident Tracker | Board Cybersecurity](https://www.board-cybersecurity.com/incidents/tracker/)
+
 
 ### Incident Reporting
 #### [DHS - Harmonization of Cyber Incident Reporting to the Federal Government | Page 42 Reporting Requirements Inventory](https://www.dhs.gov/publication/harmonization-cyber-incident-reporting-federal-government)
@@ -253,6 +256,7 @@
 #### [The Cloudcast](https://www.thecloudcast.net/)
 #### [Software Defined Talk](https://www.softwaredefinedtalk.com/)
 #### [CISO Stories Podcast](https://www.scmagazine.com/podcast-show/the-ciso-stories-podcast)
+#### [Cloud Security Today](https://www.cloudsecuritytoday.com/)
 
 
 ### :heavy_plus_sign: Additional Resources
