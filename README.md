@@ -154,6 +154,8 @@
 #### [European Union Agency for Cybersecurity - Good Practices for Supply Chain Cybersecurity](https://www.enisa.europa.eu/publications/good-practices-for-supply-chain-cybersecurity)
 #### [CISA Software Bill of Materials (SBOM)](https://www.cisa.gov/sbom)
 #### [Enduring Security Framework - Securing the Software Supply Chain: Recommended Practices for Managing Open Source Software and Software Bill of Materials](https://media.defense.gov/2023/Dec/11/2003355557/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN%20RECOMMENDED%20PRACTICES%20FOR%20MANAGING%20OPEN%20SOURCE%20SOFTWARE%20AND%20SOFTWARE%20BILL%20OF%20MATERIALS.PDF)
+#### [CISA Software Acquisition Guide for Government Enterprise Consumers: Software Assurance in the Cyber-Supply Chain Risk Management (C-SCRM) Lifecycle](https://www.cisa.gov/resources-tools/resources/software-acquisition-guide-government-enterprise-consumers-software-assurance-cyber-supply-chain)
+
 
 # :raised_hand_with_fingers_splayed: Identity & Access Management
 #### [Zero Trust - US Gov](https://zerotrust.cyber.gov/)
@@ -274,6 +276,7 @@
 #### [Microsoft Chief Information Security Officer (CISO) Workshop Training](https://learn.microsoft.com/en-us/security/ciso-workshop/the-ciso-workshop)
 #### [CloudSecDocs | Marco Lancini](https://cloudsecdocs.com/)
 #### [UK National Cyber Security Centre - Cyber Security Toolkit for Boards](https://www.ncsc.gov.uk/collection/board-toolkit)
+#### [All InfoSec News](https://allinfosecnews.com/)
 
 ### Cheat Sheets
 #### [SANS - The Ultimate List of SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
