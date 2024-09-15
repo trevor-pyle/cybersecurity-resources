@@ -65,6 +65,7 @@
 #### [AWS Security Documentation](https://docs.aws.amazon.com/security/)  
 #### [Google Security Overview](https://cloud.google.com/docs/security/overview/whitepaper)  
 #### [AWS to Azure Services Comparison - Excellent comparison of services for those working in multi-cloud environments](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/services)
+#### [Amazon Web Services In Plain English](https://expeditedsecurity.com/aws-in-plain-english/)
 #### [Microsoft Cloud Security Benchmark Documentation](https://learn.microsoft.com/en-us/security/benchmark/azure/)
 
 ### Shared Responsibilities
@@ -184,9 +185,9 @@
 #### [Virus Total](https://www.virustotal.com)
 #### [Shodan](https://www.shodan.io/)
 #### [Web Check](https://web-check.xyz/)
-#### [Microsoft Incident Response Guide | Best practices for security teams and leaders | Navigating the Maze of Incident Response Document](https://www.microsoft.com/en-us/security/blog/2023/12/11/new-microsoft-incident-response-team-guide-shares-best-practices-for-security-teams-and-leaders/)
 #### [MITRE Sensor Mappings to ATT@CK](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/sensor-mappings-to-attack/#:~:text=Sensor%20Mappings%20to%20ATT%26CK%20gives,incidents%20occurring%20in%20their%20environment.)
 #### [Cybersecurity Incident Tracker | Board Cybersecurity](https://www.board-cybersecurity.com/incidents/tracker/)
+#### [Microsoft Incident Response Ninja Hub](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/welcome-to-the-microsoft-incident-response-ninja-hub/ba-p/4243594)
 
 
 ### Incident Reporting
@@ -257,8 +258,10 @@
 #### [Down the Security Rabbithole Podcast](https://podcasts.apple.com/us/podcast/down-the-security-rabbithole-podcast-dtsr/id466659176)
 #### [The Cloudcast](https://www.thecloudcast.net/)
 #### [Software Defined Talk](https://www.softwaredefinedtalk.com/)
-#### [CISO Stories Podcast](https://www.scmagazine.com/podcast-show/the-ciso-stories-podcast)
 #### [Cloud Security Today](https://www.cloudsecuritytoday.com/)
+#### [Cloud Computing Insider](https://podcasts.apple.com/us/podcast/cloud-computing-insider/id1752181924)
+#### [Heavy Strategy](https://podcasts.apple.com/us/podcast/heavy-strategy/id1536001488)
+#### [The Cyber Ranch Podcast](https://thecyberranchpodcast.podbean.com/)
 
 
 ### :heavy_plus_sign: Additional Resources
@@ -276,7 +279,7 @@
 #### [Microsoft Chief Information Security Officer (CISO) Workshop Training](https://learn.microsoft.com/en-us/security/ciso-workshop/the-ciso-workshop)
 #### [CloudSecDocs | Marco Lancini](https://cloudsecdocs.com/)
 #### [UK National Cyber Security Centre - Cyber Security Toolkit for Boards](https://www.ncsc.gov.uk/collection/board-toolkit)
-#### [All InfoSec News](https://allinfosecnews.com/)
+#### [NIST | Building a Cybersecurity and Privacy Learning Program](https://csrc.nist.gov/pubs/sp/800/50/r1/final)
 
 ### Cheat Sheets
 #### [SANS - The Ultimate List of SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
