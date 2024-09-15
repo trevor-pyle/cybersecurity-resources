@@ -88,7 +88,6 @@
 #### [NSA | Top Ten Cloud Security Mitigation Strategies](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3699169/nsa-releases-top-ten-cloud-security-mitigation-strategies/)
 #### [Cloud Security Maturity Model v2 | IANS, Securosis, Cloud Security Alliance](https://www.iansresearch.com/resources/cloud-security-maturity-model)
 
-
 ### Cloud Compliance Offerings by Provider 
 #### [Azure](https://learn.microsoft.com/en-us/compliance/regulatory/offering-home)
 #### [AWS](https://aws.amazon.com/compliance/programs)
@@ -109,7 +108,6 @@
 #### [NIST Projects](https://csrc.nist.gov/projects)
 #### [NIST Frameworks](https://www.nist.gov/frameworks)
 #### [NIST Trustworthy & Responsible Artificial Intelligence Resource Center](https://airc.nist.gov/home)
-
 
 ### Additional Frameworks | Standards
 #### [Payment Card Industry Security Standards Council Document Library](https://www.pcisecuritystandards.org/document_library/)
@@ -157,7 +155,6 @@
 #### [Enduring Security Framework - Securing the Software Supply Chain: Recommended Practices for Managing Open Source Software and Software Bill of Materials](https://media.defense.gov/2023/Dec/11/2003355557/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN%20RECOMMENDED%20PRACTICES%20FOR%20MANAGING%20OPEN%20SOURCE%20SOFTWARE%20AND%20SOFTWARE%20BILL%20OF%20MATERIALS.PDF)
 #### [CISA Software Acquisition Guide for Government Enterprise Consumers: Software Assurance in the Cyber-Supply Chain Risk Management (C-SCRM) Lifecycle](https://www.cisa.gov/resources-tools/resources/software-acquisition-guide-government-enterprise-consumers-software-assurance-cyber-supply-chain)
 
-
 # :raised_hand_with_fingers_splayed: Identity & Access Management
 #### [Zero Trust - US Gov](https://zerotrust.cyber.gov/)
 #### [NIST Zero Trust Architecture](https://www.nist.gov/publications/zero-trust-architecture)  
@@ -188,7 +185,6 @@
 #### [MITRE Sensor Mappings to ATT@CK](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/sensor-mappings-to-attack/#:~:text=Sensor%20Mappings%20to%20ATT%26CK%20gives,incidents%20occurring%20in%20their%20environment.)
 #### [Cybersecurity Incident Tracker | Board Cybersecurity](https://www.board-cybersecurity.com/incidents/tracker/)
 #### [Microsoft Incident Response Ninja Hub](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/welcome-to-the-microsoft-incident-response-ninja-hub/ba-p/4243594)
-
 
 ### Incident Reporting
 #### [DHS - Harmonization of Cyber Incident Reporting to the Federal Government | Page 42 Reporting Requirements Inventory](https://www.dhs.gov/publication/harmonization-cyber-incident-reporting-federal-government)
@@ -261,8 +257,7 @@
 #### [Cloud Security Today](https://www.cloudsecuritytoday.com/)
 #### [Cloud Computing Insider](https://podcasts.apple.com/us/podcast/cloud-computing-insider/id1752181924)
 #### [Heavy Strategy](https://podcasts.apple.com/us/podcast/heavy-strategy/id1536001488)
-#### [The Cyber Ranch Podcast](https://thecyberranchpodcast.podbean.com/)
-
+#### [The Cyber Ranch Podcast](https://podcasts.apple.com/us/podcast/the-cyber-ranch-podcast/id1549705840)
 
 ### :heavy_plus_sign: Additional Resources
 
